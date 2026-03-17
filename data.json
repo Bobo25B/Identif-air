@@ -30,5 +30,10 @@
   {
     "images": ["images/su301.jpg","images/su302.jpg","images/su303.jpg"],
     "answer": "Su-30"
+  },
+    {
+    "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
+    "answer": "Su-27"
   }
+
 ]
