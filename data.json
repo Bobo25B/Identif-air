@@ -44,10 +44,20 @@
     "answer": "A400M",
     "category": "transport"
   },
+  {
+    "images": ["images/c130h1.jpg","images/c130h2.jpg","images/c130h3.jpg"],
+    "answer": "C-130H",
+    "category": "transport"
+  },
     {
-    "images": ["images/b11.jpg","images/b11.jpg","images/b11.jpg"],
-    "answer": "B-1",
+    "images": ["images/c2351.jpg","images/c2352.jpg","images/c2353.jpg"],
+    "answer": "Casa 235",
     "category": "bombardier"
+  },
+  {
+    "images": ["images/kc3901.jpg","images/kc3902.jpg","images/kc3903.jpg"],
+    "answer": "KC-390",
+    "category": "transport"
   },
   {
     "images": ["images/b21.jpg","images/b22.jpg","images/b23.jpg"],
