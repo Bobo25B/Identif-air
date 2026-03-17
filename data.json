@@ -1,18 +1,18 @@
 [
   {
-    "image": ["rafale1.jpg","rafale2.jpg","rafale3.jpg"],
+    "images": ["rafale1.jpg","rafale2.jpg","rafale3.jpg"],
     "answer": "Rafale"
   },
   {
-    "image": "images/f16.jpg",
+    "images": "images/f16.jpg",
     "answer": "F-16"
   },
   {
-    "image": "images/f22.jpg",
+    "images": "images/f22.jpg",
     "answer": "F-22"
   },
   {
-    "image": "images/mirage2000.jpg",
+    "images": "images/mirage2000.jpg",
     "answer": "Mirage 2000"
   }
 ]
