@@ -21,7 +21,8 @@ function showQuestion() {
   answered = false;
 
   let q = data[current];
-  document.getElementById("planeImage").src = q.image;
+  let randomImage = q.images[Math.floor(Math.random() * q.images.length)];
+document.getElementById("planeImage").src = randomImage;
 
   let choicesDiv = document.getElementById("choices");
   choicesDiv.innerHTML = "";
