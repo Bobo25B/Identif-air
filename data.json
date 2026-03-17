@@ -1,6 +1,6 @@
 [
   {
-    "images": ["rafale1.jpg","rafale2.jpg","rafale3.jpg"],
+    "image": ["rafale1.jpg","rafale2.jpg","rafale3.jpg"],
     "answer": "Rafale"
   },
   {
