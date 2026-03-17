@@ -30,6 +30,26 @@
     "category": "chasseur"
   },
   {
+    "images": ["images/f35a1.jpg","images/f35a2.jpg","images/f35a3.jpg"],
+    "answer": "F-35A",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/f35b1.jpg","images/f35b2.jpg","images/f35b3.jpg"],
+    "answer": "F-35B",
+    "category": "chasseur"
+  },
+    {
+    "images": ["images/f35c1.jpg","images/f35c2.jpg","images/f35c3.jpg"],
+    "answer": "F-35C",
+    "category": "chasseur"
+  },
+    {
+    "images": ["images/kaan1.jpg","images/kaan2.jpg","images/kaan3.jpg"],
+    "answer": "KAAN",
+    "category": "chasseur"
+  },
+  {
     "images": ["images/f181.jpg","images/f182.jpg","images/f183.jpg"],
     "answer": "F-18 hornet",
     "category": "chasseur"
@@ -92,6 +112,11 @@
    {
     "images": ["images/caracal1.jpg","images/caracal2.jpg","images/caracal3.jpg"],
     "answer": "H-225M Caracal",
+    "category": "helico"
+  },
+  {
+    "images": ["images/uh601.jpg","images/uh602.jpg","images/uh603.jpg"],
+    "answer": "UH-60 Black Hawk",
     "category": "helico"
   },
     {
