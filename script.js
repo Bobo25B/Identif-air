@@ -21,7 +21,7 @@ function nextQuestion() {
 }
   let q = data[current];
 
-  document.getElementById("planeImage").src = q.images;
+  document.getElementById("planeImage").src = q.image;
   document.getElementById("result").innerText = "";
 }
 
