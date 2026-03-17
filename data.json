@@ -2,47 +2,47 @@
   {
     "images": ["images/rafale1.jpg","images/rafale2.jpg","images/rafale3.jpg"],
     "answer": "Rafale"
-    "category": "chasseurs"
+    "category": "chasseur"
   },
   {
     "images": ["images/f161.jpg","images/f162.jpg","images/f163.jpg"],
     "answer": "F-16"
-    "category": "chasseurs"
+    "category": "chasseur"
   },
   {
     "images": ["images/f221.jpg","images/f222.jpg","images/f223.jpg"],
     "answer": "F-22"
-    "category": "chasseurs"
+    "category": "chasseur"
   },
   {
     "images": ["images/m2000c1.jpg","images/m2000c2.jpg","images/m2000c3.jpg"],
     "answer": "Mirage 2000C"
-    "category": "chasseurs"
+    "category": "chasseur"
   },
   {
     "images": ["images/mig291.jpg","images/mig292.jpg","images/mig293.jpg"],
     "answer": "Mig 29 Fulcrum"
-    "category": "chasseurs"
+    "category": "chasseur"
   },
   {
     "images": ["images/f151.jpg","images/f152.jpg","images/f153.jpg"],
     "answer": "F-15 Eagle"
-    "category": "chasseurs"
+    "category": "chasseur"
   },
   {
     "images": ["images/f181.jpg","images/f182.jpg","images/f183.jpg"],
     "answer": "F-18 hornet"
-    "category": "chasseurs"
+    "category": "chasseur"
   },
   {
     "images": ["images/su301.jpg","images/su302.jpg","images/su303.jpg"],
     "answer": "Su-30"
-    "category": "chasseurs"
+    "category": "chasseur"
   },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27"
-    "category": "chasseurs"
+    "category": "chasseur"
   }
 
 ]
