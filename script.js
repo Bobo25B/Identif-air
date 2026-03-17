@@ -2,7 +2,6 @@ let data = [];
 let filteredData = [];
 let current = 0;
 
-// Charger les données
 async function loadData() {
   try {
     const res = await fetch("data.json");
@@ -13,7 +12,6 @@ async function loadData() {
   }
 }
 
-// Mélange du tableau
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -21,17 +19,21 @@ function shuffle(array) {
   }
 }
 
-// Récupère les catégories cochées
 function getSelectedCategories() {
   const checkboxes = document.querySelectorAll("#filters input:checked");
   return Array.from(checkboxes).map(cb => cb.value);
 }
 
-// Applique le filtre
 function applyFilters() {
   const selected = getSelectedCategories();
 
-  filteredData = data.filter(q => selected.includes(q.category));
+  // ✅ fallback si pas de category
+  filteredData = data.filter(q => {
+    if (!q.category) return true; // accepte si pas défini
+    return selected.includes(q.category);
+  });
+
+  console.log("Filtré :", filteredData);
 
   if (filteredData.length === 0) {
     document.getElementById("result").innerText = "Aucune catégorie sélectionnée !";
@@ -44,7 +46,6 @@ function applyFilters() {
   showQuestion();
 }
 
-// Affiche la question courante
 function showQuestion() {
   if (filteredData.length === 0) return;
 
@@ -58,13 +59,11 @@ function showQuestion() {
   document.getElementById("result").innerText = "";
 }
 
-// Affiche la réponse
 function showAnswer() {
   let q = filteredData[current];
   document.getElementById("result").innerText = "Réponse : " + q.answer;
 }
 
-// Question suivante
 function nextQuestion() {
   current++;
   if (current >= filteredData.length) {
@@ -74,14 +73,14 @@ function nextQuestion() {
   showQuestion();
 }
 
-// Boutons
-document.getElementById("answerBtn").onclick = showAnswer;
-document.getElementById("nextBtn").onclick = nextQuestion;
+// ⚠️ IMPORTANT : attendre que le DOM soit chargé
+window.onload = () => {
+  document.getElementById("answerBtn").onclick = showAnswer;
+  document.getElementById("nextBtn").onclick = nextQuestion;
 
-// Réagir aux filtres
-document.querySelectorAll("#filters input").forEach(cb => {
-  cb.addEventListener("change", applyFilters);
-});
+  document.querySelectorAll("#filters input").forEach(cb => {
+    cb.addEventListener("change", applyFilters);
+  });
 
-// Lancer au démarrage
-loadData();
+  loadData();
+};
