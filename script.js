@@ -20,7 +20,15 @@ function shuffle(array) {
 function showQuestion() {
   let q = data[current];
 
-  document.getElementById("planeImage").src = q.images;
+  // Choisit une image aléatoire parmi celles disponibles
+  let img;
+  if (Array.isArray(q.images)) {
+    img = q.images[Math.floor(Math.random() * q.images.length)];
+  } else {
+    img = q.images;
+  }
+
+  document.getElementById("planeImage").src = img;
   document.getElementById("result").innerText = "";
 }
 
@@ -30,21 +38,19 @@ function showAnswer() {
   document.getElementById("result").innerText = "Réponse : " + q.answer;
 }
 
-// Passe à la question suivante en boucle et ordre aléatoire
+// Passe à la question suivante (boucle infinie, mélange aléatoire)
 function nextQuestion() {
   current++;
-
   if (current >= data.length) {
     shuffle(data);
     current = 0;
   }
-
   showQuestion();
 }
 
-// Liens avec les boutons
+// Lien avec les boutons
 document.getElementById("answerBtn").onclick = showAnswer;
 document.getElementById("nextBtn").onclick = nextQuestion;
 
-// Chargement des données
+// Charger les données au démarrage
 loadData();
