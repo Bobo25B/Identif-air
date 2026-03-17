@@ -20,7 +20,7 @@ function shuffle(array) {
 function showQuestion() {
   let q = data[current];
 
-  document.getElementById("planeImage").src = q.image;
+  document.getElementById("planeImage").src = q.images;
   document.getElementById("result").innerText = "";
 }
 
