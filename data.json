@@ -1,22 +1,18 @@
 [
   {
     "image": "images/rafale.jpg",
-    "choices": ["Rafale", "F-16", "Eurofighter"],
     "answer": "Rafale"
   },
   {
     "image": "images/f16.jpg",
-    "choices": ["F-18", "F-16", "MiG-29"],
     "answer": "F-16"
   },
   {
     "image": "images/f22.jpg",
-    "choices": ["F-35", "F-22", "Su-57"],
     "answer": "F-22"
   },
   {
     "image": "images/mirage2000.jpg",
-    "choices": ["Rafale", "Mirage 2000", "Gripen"],
     "answer": "Mirage 2000"
   }
 ]
