@@ -8,14 +8,17 @@ async function loadData() {
   showQuestion();
 }
 
-function shuffle(array) {
-  for (let i = array.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [array[i], array[j]] = [array[j], array[i]];
-  }
-}
+function nextQuestion() {
 
-function showQuestion() {
+  current++;
+
+  if (current >= data.length) {
+    shuffle(data);
+    current = 0;
+  }
+
+  showQuestion();
+}
   let q = data[current];
 
   document.getElementById("planeImage").src = q.images;
