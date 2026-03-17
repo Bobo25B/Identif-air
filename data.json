@@ -89,6 +89,11 @@
     "answer": "B-21 Raider",
     "category": "bombardier"
   },
+   {
+    "images": ["images/caracal1.jpg","images/caracal3.jpg","images/caracal3.jpg"],
+    "answer": "H-225M Caracal",
+    "category": "hélico"
+  },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27",
