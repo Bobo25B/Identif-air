@@ -4,35 +4,30 @@
   <meta charset="UTF-8">
   <title>Devine l'avion ✈️</title>
   <link rel="stylesheet" href="style.css">
+  <style>
+    /* Simple style pour les filtres */
+    #filters { margin-bottom: 15px; }
+    #filters label { margin-right: 10px; cursor: pointer; }
+  </style>
 </head>
 <body>
 
 <h1>✈️ Devine l'avion</h1>
 
-<!-- 🔽 FILTRES PAR CATÉGORIE -->
+<!-- Filtres -->
 <div id="filters">
   <label><input type="checkbox" value="chasseur" checked> Chasseurs</label>
   <label><input type="checkbox" value="bombardier" checked> Bombardiers</label>
   <label><input type="checkbox" value="transport" checked> Transport</label>
 </div>
 
-<br>
-
 <div class="container">
-
   <img id="planeImage" width="400">
-
   <br><br>
-
   <button id="answerBtn">Voir la réponse</button>
-
   <p id="result"></p>
-
   <button id="nextBtn">Suivant</button>
-
 </div>
-
-<p id="score"></p>
 
 <script src="script.js"></script>
 </body>
