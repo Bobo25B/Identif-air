@@ -15,4 +15,20 @@
     "images": ["images/mirage2000.jpg"],
     "answer": "Mirage 2000"
   }
+  {
+    "images": ["images/mig29.jpg"],
+    "answer": "Mig 29 Fulcrum"
+  }
+  {
+    "images": ["images/f15.jpg"],
+    "answer": "F-15 Eagle"
+  }
+  {
+    "images": ["images/f18.jpg"],
+    "answer": "F-18 hornet"
+  }
+  {
+    "images": ["images/su30.jpg"],
+    "answer": "Su-30"
+  }
 ]
