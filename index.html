@@ -3,18 +3,19 @@
 <head>
   <meta charset="UTF-8">
   <title>Devine l'avion ✈️</title>
-  <link rel="stylesheet" href="style.css">
   <style>
-    /* Simple style pour les filtres */
     #filters { margin-bottom: 15px; }
     #filters label { margin-right: 10px; cursor: pointer; }
+    .container { text-align: center; margin-top: 20px; }
+    #planeImage { max-width: 400px; display: block; margin: auto; }
+    button { margin: 5px; padding: 10px 20px; font-size: 16px; cursor: pointer; }
+    #result { font-size: 18px; font-weight: bold; margin-top: 10px; }
   </style>
 </head>
 <body>
 
 <h1>✈️ Devine l'avion</h1>
 
-<!-- Filtres -->
 <div id="filters">
   <label><input type="checkbox" value="chasseur" checked> Chasseurs</label>
   <label><input type="checkbox" value="bombardier" checked> Bombardiers</label>
@@ -22,10 +23,9 @@
 </div>
 
 <div class="container">
-  <img id="planeImage" width="400">
-  <br><br>
-  <button id="answerBtn">Voir la réponse</button>
+  <img id="planeImage" src="" alt="Avion">
   <p id="result"></p>
+  <button id="answerBtn">Voir la réponse</button>
   <button id="nextBtn">Suivant</button>
 </div>
 
