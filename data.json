@@ -49,6 +49,36 @@
     "answer": "B-1",
     "category": "bombardier"
   },
+  {
+    "images": ["images/b21.jpg","images/b22.jpg","images/b23.jpg"],
+    "answer": "B-2 SPIRIT",
+    "category": "bombardier"
+  },
+  {
+    "images": ["images/tu1601.jpg","images/tu1602.jpg","images/tu1603.jpg"],
+    "answer": "Tu-160 Blackjack",
+    "category": "bombardier"
+  },
+  {
+    "images": ["images/tu22m1.jpg","images/tu22m2.jpg","images/tu22m3.jpg"],
+    "answer": "Tu-22M Backfire",
+    "category": "bombardier"
+  },
+  {
+    "images": ["images/tu951.jpg","images/tu952.jpg","images/tu953.jpg"],
+    "answer": "TU-95 Bear",
+    "category": "bombardier"
+  },
+  {
+    "images": ["images/b521.jpg","images/b522.jpg","images/b523.jpg"],
+    "answer": "B-52",
+    "category": "bombardier"
+  },
+  {
+    "images": ["images/b211.jpg","images/b212.jpg","images/b213.jpg"],
+    "answer": "B-21 Raider",
+    "category": "bombardier"
+  },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27",
