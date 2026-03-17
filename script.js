@@ -2,6 +2,7 @@ let data = [];
 let filteredData = [];
 let current = 0;
 
+// Charger les données
 async function loadData() {
   try {
     const res = await fetch("data.json");
@@ -12,6 +13,7 @@ async function loadData() {
   }
 }
 
+// Mélange du tableau
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
@@ -19,21 +21,20 @@ function shuffle(array) {
   }
 }
 
+// Récupère les catégories cochées
 function getSelectedCategories() {
   const checkboxes = document.querySelectorAll("#filters input:checked");
   return Array.from(checkboxes).map(cb => cb.value);
 }
 
+// Applique le filtre
 function applyFilters() {
   const selected = getSelectedCategories();
 
-  // ✅ fallback si pas de category
   filteredData = data.filter(q => {
-    if (!q.category) return true; // accepte si pas défini
+    if (!q.category) return true;
     return selected.includes(q.category);
   });
-
-  console.log("Filtré :", filteredData);
 
   if (filteredData.length === 0) {
     document.getElementById("result").innerText = "Aucune catégorie sélectionnée !";
@@ -46,11 +47,11 @@ function applyFilters() {
   showQuestion();
 }
 
+// Affiche la question courante
 function showQuestion() {
   if (filteredData.length === 0) return;
 
   let q = filteredData[current];
-
   let img = Array.isArray(q.images)
     ? q.images[Math.floor(Math.random() * q.images.length)]
     : q.images;
@@ -59,11 +60,13 @@ function showQuestion() {
   document.getElementById("result").innerText = "";
 }
 
+// Affiche la réponse
 function showAnswer() {
   let q = filteredData[current];
   document.getElementById("result").innerText = "Réponse : " + q.answer;
 }
 
+// Question suivante
 function nextQuestion() {
   current++;
   if (current >= filteredData.length) {
@@ -73,7 +76,7 @@ function nextQuestion() {
   showQuestion();
 }
 
-// ⚠️ IMPORTANT : attendre que le DOM soit chargé
+// ⚠️ Attendre que le DOM soit chargé
 window.onload = () => {
   document.getElementById("answerBtn").onclick = showAnswer;
   document.getElementById("nextBtn").onclick = nextQuestion;
