@@ -7,6 +7,7 @@ async function loadData() {
   try {
     const res = await fetch("data.json");
     data = await res.json();
+    console.log("Données chargées :", data);
     applyFilters();
   } catch (e) {
     console.error("Erreur chargement JSON :", e);
@@ -31,13 +32,10 @@ function getSelectedCategories() {
 function applyFilters() {
   const selected = getSelectedCategories();
 
-  filteredData = data.filter(q => {
-    if (!q.category) return true;
-    return selected.includes(q.category);
-  });
+  filteredData = data.filter(q => selected.includes(q.category));
 
   if (filteredData.length === 0) {
-    document.getElementById("result").innerText = "Aucune catégorie sélectionnée !";
+    document.getElementById("result").innerText = "Pas de questions pour ces catégories.";
     document.getElementById("planeImage").src = "";
     return;
   }
@@ -51,8 +49,8 @@ function applyFilters() {
 function showQuestion() {
   if (filteredData.length === 0) return;
 
-  let q = filteredData[current];
-  let img = Array.isArray(q.images)
+  const q = filteredData[current];
+  const img = Array.isArray(q.images)
     ? q.images[Math.floor(Math.random() * q.images.length)]
     : q.images;
 
@@ -62,12 +60,14 @@ function showQuestion() {
 
 // Affiche la réponse
 function showAnswer() {
-  let q = filteredData[current];
+  if (filteredData.length === 0) return;
+  const q = filteredData[current];
   document.getElementById("result").innerText = "Réponse : " + q.answer;
 }
 
 // Question suivante
 function nextQuestion() {
+  if (filteredData.length === 0) return;
   current++;
   if (current >= filteredData.length) {
     shuffle(filteredData);
