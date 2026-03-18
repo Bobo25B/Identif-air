@@ -11,12 +11,12 @@
   },
   {
     "images": ["images/su241.jpg","images/su242.jpg","images/su243.jpg"],
-    "answer": "Su-24",
+    "answer": "Su-24 Fencer",
     "category": "chasseur"
   },
   {
     "images": ["images/mig231.jpg","images/mig232.jpg","images/mig233.jpg"],
-    "answer": "Mig-23",
+    "answer": "Mig-23 Flogger",
     "category": "chasseur"
   },
   {
@@ -36,12 +36,12 @@
   },
   {
     "images": ["images/f161.jpg","images/f162.jpg","images/f163.jpg"],
-    "answer": "F-16",
+    "answer": "F-16 Falcon",
     "category": "chasseur"
   },
   {
     "images": ["images/f221.jpg","images/f222.jpg","images/f223.jpg"],
-    "answer": "F-22",
+    "answer": "F-22 Raptor",
     "category": "chasseur"
   },
   {
@@ -91,27 +91,27 @@
   },
     {
     "images": ["images/j151.jpg","images/j152.jpg","images/j153.jpg"],
-    "answer": "J-15",
+    "answer": "Shenyang J-15 Flying Shark",
     "category": "chasseur"
   },
     {
     "images": ["images/j201.jpg","images/j202.jpg","images/j203.jpg"],
-    "answer": "J-20 Mighty Dragon",
+    "answer": "Chengdu J-20 Mighty Dragon",
     "category": "chasseur"
   },
     {
     "images": ["images/j101.jpg","images/j102.jpg","images/j103.jpg"],
-    "answer": "J-10",
+    "answer": "Chengdu J-10",
     "category": "chasseur"
   },
     {
     "images": ["images/j351.jpg","images/j352.jpg","images/j353.jpg"],
-    "answer": "J-35A",
+    "answer": "Shenyang J-35A",
     "category": "chasseur"
   },
     {
     "images": ["images/a400m1.jpg","images/a400m2.jpg","images/a400m3.jpg"],
-    "answer": "A400M",
+    "answer": "Airbus A400M",
     "category": "transport"
   },
   {
