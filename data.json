@@ -90,6 +90,26 @@
     "category": "chasseur"
   },
     {
+    "images": ["images/j151.jpg","images/j152.jpg","images/j153.jpg"],
+    "answer": "J-15",
+    "category": "chasseur"
+  },
+    {
+    "images": ["images/j201.jpg","images/j202.jpg","images/j203.jpg"],
+    "answer": "J-20 Mighty Dragon"
+    "category": "chasseur"
+  },
+    {
+    "images": ["images/j101.jpg","images/j102.jpg","images/j103.jpg"],
+    "answer": "J-10",
+    "category": "chasseur"
+  },
+    {
+    "images": ["images/j351.jpg","images/j352.jpg","images/j353.jpg"],
+    "answer": "J-35A",
+    "category": "chasseur"
+  },
+    {
     "images": ["images/a400m1.jpg","images/a400m2.jpg","images/a400m3.jpg"],
     "answer": "A400M",
     "category": "transport"
