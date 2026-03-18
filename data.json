@@ -5,6 +5,36 @@
     "category": "chasseur"
   },
   {
+    "images": ["images/su571.jpg","images/su572.jpg","images/su573.jpg"],
+    "answer": "Su-57 Felon",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/su241.jpg","images/su242.jpg","images/su243.jpg"],
+    "answer": "Su-24",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/mig231.jpg","images/mig232.jpg","images/mig233.jpg"],
+    "answer": "Mig-23",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/kf211.jpg","images/kf212.jpg","images/kf213.jpg"],
+    "answer": "KF-21 Boromae",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/a101.jpg","images/a102.jpg","images/a103.jpg"],
+    "answer": "A-10C Warthog",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/harrier1.jpg","images/harrier2.jpg","images/harrier3.jpg"],
+    "answer": "AV-8B Harrier",
+    "category": "chasseur"
+  },
+  {
     "images": ["images/f161.jpg","images/f162.jpg","images/f163.jpg"],
     "answer": "F-16",
     "category": "chasseur"
