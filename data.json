@@ -99,6 +99,21 @@
     "answer": "C-130H",
     "category": "transport"
   },
+  {
+    "images": ["images/c171.jpg","images/c172.jpg","images/c173.jpg"],
+    "answer": "C-17 Globemaster",
+    "category": "transport"
+  },
+  {
+    "images": ["images/c1351.jpg","images/c1352.jpg","images/c1353.jpg"],
+    "answer": "C-135",
+    "category": "transport"
+  },
+  {
+    "images": ["images/kc461.jpg","images/kc462.jpg","images/kc463.jpg"],
+    "answer": "KC-46 Peegasus",
+    "category": "transport"
+  },
     {
     "images": ["images/c2351.jpg","images/c2352.jpg","images/c2353.jpg"],
     "answer": "Casa 235",
