@@ -220,13 +220,18 @@
     "category": "helico"
   },
    {
-    "images": ["images/mi261.jpg","images/mi261.jpg","images/mi261.jpg"],
+    "images": ["images/mi261.jpg","images/mi262.jpg","images/mi263.jpg"],
     "answer": "Mi-26",
     "category": "helico"
   },
    {
     "images": ["images/stallion1.jpg","images/stallion2.jpg","images/stallion3.jpg"],
     "answer": "CH-53 King Stallion",
+    "category": "helico"
+  },
+  {
+    "images": ["images/mi81.jpg","images/mi82.jpg","images/mi82.jpg"],
+    "answer": "Mi-8",
     "category": "helico"
   },
     {
