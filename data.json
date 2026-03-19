@@ -109,6 +109,31 @@
     "answer": "Shenyang J-35A",
     "category": "chasseur"
   },
+   {
+    "images": ["images/gadget1.jpg","images/gadget2.jpg","images/gadget3.jpg"],
+    "answer": "Alphajet",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/gripen1.jpg","images/gripen2.jpg","images/gripen3.jpg"],
+    "answer": "Saab Gripen",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/tejas1.jpg","images/tejas2.jpg","images/tejas3.jpg"],
+    "answer": "Hal Tejas",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/mig251.jpg","images/mig252.jpg","images/mig253.jpg"],
+    "answer": "Mig-25 Foxbat",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/mig311.jpg","images/mig312.jpg","images/mig313.jpg"],
+    "answer": "Mig-31 Foxhound",
+    "category": "chasseur"
+  },
     {
     "images": ["images/a400m1.jpg","images/a400m2.jpg","images/a400m3.jpg"],
     "answer": "Airbus A400M",
@@ -142,6 +167,21 @@
   {
     "images": ["images/kc3901.jpg","images/kc3902.jpg","images/kc3903.jpg"],
     "answer": "KC-390",
+    "category": "transport"
+  },
+  {
+    "images": ["images/c51.jpg","images/c51.jpg","images/c53.jpg"],
+    "answer": "C-5 Galaxy",
+    "category": "transport"
+  },
+  {
+    "images": ["images/hawkeye1.jpg","images/hawkeye2.jpg","images/hawkeye3.jpg"],
+    "answer": "Hawkeye E-2",
+    "category": "transport"
+  },
+  {
+    "images": ["images/kj6001.jpg","images/kj6002.jpg","images/kj6003.jpg"],
+    "answer": "KJ-600",
     "category": "transport"
   },
   {
@@ -217,6 +257,11 @@
   {
     "images": ["images/apache1.jpg","images/apache2.jpg","images/apache3.jpg"],
     "answer": "AH-64 Apache",
+    "category": "helico"
+  },
+   {
+    "images": ["images/h1601.jpg","images/h1602.jpg","images/h1603.jpg"],
+    "answer": "H-160",
     "category": "helico"
   },
    {
