@@ -189,6 +189,21 @@
     "answer": "NH-90",
     "category": "helico"
   },
+   {
+    "images": ["images/dauphin1.jpg","images/dauphin2.jpg","images/dauphin3.jpg"],
+    "answer": "Dauphin",
+    "category": "helico"
+  },
+   {
+    "images": ["images/mi241.jpg","images/mi242.jpg","images/mi243.jpg"],
+    "answer": "Mi-24 Hind",
+    "category": "helico"
+  },
+   {
+    "images": ["images/mi281.jpg","images/mi282.jpg","images/mi283.jpg"],
+    "answer": "Mi-28 Havoc",
+    "category": "helico"
+  },
   {
     "images": ["images/uh601.jpg","images/uh602.jpg","images/uh603.jpg"],
     "answer": "UH-60 Black Hawk",
