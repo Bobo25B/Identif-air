@@ -194,6 +194,16 @@
     "answer": "UH-60 Black Hawk",
     "category": "helico"
   },
+  {
+    "images": ["images/chinook1.jpg","images/chinook2.jpg","images/chinook3.jpg"],
+    "answer": "Chinook",
+    "category": "helico"
+  },
+  {
+    "images": ["images/apache1.jpg","images/apache2.jpg","images/apache3.jpg"],
+    "answer": "AH-64 Apache",
+    "category": "helico"
+  },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27",
