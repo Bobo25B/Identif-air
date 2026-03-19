@@ -180,6 +180,16 @@
     "category": "helico"
   },
   {
+    "images": ["images/tigre1.jpg","images/tigre2.jpg","images/tigre3.jpg"],
+    "answer": "Tigre",
+    "category": "helico"
+  },
+  {
+    "images": ["images/nh901.jpg","images/nh902.jpg","images/nh903.jpg"],
+    "answer": "NH-90",
+    "category": "helico"
+  },
+  {
     "images": ["images/uh601.jpg","images/uh602.jpg","images/uh603.jpg"],
     "answer": "UH-60 Black Hawk",
     "category": "helico"
