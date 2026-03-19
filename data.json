@@ -219,6 +219,16 @@
     "answer": "AH-64 Apache",
     "category": "helico"
   },
+   {
+    "images": ["images/mi261.jpg","images/mi261.jpg","images/mi261.jpg"],
+    "answer": "Mi-26",
+    "category": "helico"
+  },
+   {
+    "images": ["images/stallion1.jpg","images/stallion2.jpg","images/stallion3.jpg"],
+    "answer": "CH-53 King Stallion",
+    "category": "helico"
+  },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27",
