@@ -184,6 +184,26 @@
     "answer": "KJ-600",
     "category": "transport"
   },
+    {
+    "images": ["images/il761.jpg","images/il762.jpg","images/il763.jpg"],
+    "answer": "Il_76",
+    "category": "transport"
+  },
+    {
+    "images": ["images/a501.jpg","images/a502.jpg","images/a503.jpg"],
+    "answer": "A-50 Mainstay",
+    "category": "transport"
+  },
+    {
+    "images": ["images/an1241.jpg","images/an1242.jpg","images/an1243.jpg"],
+    "answer": "An-124",
+    "category": "transport"
+  },
+    {
+    "images": ["images/ka501.jpg","images/ka502.jpg","images/ka503.jpg"],
+    "answer": "Ka-50",
+    "category": "helico"
+  },
   {
     "images": ["images/b21.jpg","images/b22.jpg","images/b23.jpg"],
     "answer": "B-2 SPIRIT",
@@ -232,6 +252,16 @@
    {
     "images": ["images/dauphin1.jpg","images/dauphin2.jpg","images/dauphin3.jpg"],
     "answer": "Dauphin",
+    "category": "helico"
+  },
+  {
+    "images": ["images/lynx1.jpg","images/lynx2.jpg","images/lynx3.jpg"],
+    "answer": "Lynx",
+    "category": "helico"
+  },
+  {
+    "images": ["images/s611.jpg","images/s612.jpg","images/s613.jpg"],
+    "answer": "S-61 Sea King",
     "category": "helico"
   },
    {
