@@ -1,81 +1,46 @@
-{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
-/* Fond global */
 body {
-  font-family: "Inter", Arial, sans-serif;
-  background: linear-gradient(180deg, #0f172a, #020617);
-  color: #e2e8f0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-}
-
-/* Carte principale */
-.container {
-  background: rgba(15, 23, 42, 0.7);
-  backdrop-filter: blur(10px);
-  padding: 30px;
-  border-radius: 20px;
-  width: 90%;
-  max-width: 500px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.4);
-}
-
-/* Titre */
-h1 {
-  font-size: 26px;
-  margin-bottom: 20px;
-  font-weight: 600;
-}
-
-/* Image */
-img {
-  width: 100%;
-  border-radius: 12px;
-  margin-bottom: 20px;
-  object-fit: cover;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.3);
-}
-
-/* Boutons */
-button {
-  margin: 6px;
-  padding: 12px 18px;
-  font-size: 15px;
-  border: none;
-  border-radius: 10px;
-  cursor: pointer;
-  background: #3b82f6;
+  font-family: Arial;
+  text-align: center;
+  background: #0f172a;
   color: white;
-  transition: all 0.2s ease;
 }
 
-/* Hover plus subtil */
-button:hover {
-  background: #2563eb;
-  transform: translateY(-2px);
+h1 {
+  margin-top: 20px;
 }
 
-/* Effet clic */
-button:active {
-  transform: scale(0.97);
+.container {
+  margin-top: 20px;
 }
 
-/* Résultat */
-#result {
-  margin-top: 15px;
-  font-size: 18px;
-  font-weight: 500;
+img {
+  width: 400px;
+  border-radius: 10px;
+  margin-bottom: 20px;
 }
 
-/* Score */
-#score {
-  margin-top: 10px;
+button {
+  margin: 5px;
+  padding: 10px 15px;
   font-size: 16px;
-  color: #94a3b8;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background: #2563eb;
+  color: white;
 }
+
+button:hover {
+  background: #1d4ed8;
+}
+
+#result {
+  font-size: 20px;
+  margin-top: 15px;
+}
+
+#score {
+  margin-top: 20px;
+  font-size: 18px;
+}
+
