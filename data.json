@@ -309,6 +309,36 @@
     "answer": "Mi-8",
     "category": "helico"
   },
+   {
+    "images": ["images/b7471.jpg","images/b7472.jpg","images/b7473.jpg"],
+    "answer": "Boeing 747",
+    "category": "liner"
+  },
+   {
+    "images": ["images/b7371.jpg","images/b7372.jpg","images/b7373.jpg"],
+    "answer": "Boeing 737",
+    "category": "liner"
+  },
+   {
+    "images": ["images/b7671.jpg","images/b7672.jpg","images/b7673.jpg"],
+    "answer": "Boeing 767",
+    "category": "liner"
+  },
+   {
+    "images": ["images/b7871.jpg","images/b7872.jpg","images/b7873.jpg"],
+    "answer": "Boeing 787",
+    "category": "liner"
+  },
+   {
+    "images": ["images/b7571.jpg","images/b7572.jpg","images/b7573.jpg"],
+    "answer": "Boeing 757",
+    "category": "liner"
+  },
+   {
+    "images": ["images/b7771.jpg","images/b7772.jpg","images/b7773.jpg"],
+    "answer": "Boeing 777",
+    "category": "liner"
+  },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27",
