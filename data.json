@@ -339,6 +339,36 @@
     "answer": "Boeing 777",
     "category": "liner"
   },
+  {
+    "images": ["images/a3101.jpg","images/a3102.jpg","images/a3103.jpg"],
+    "answer": "Airbus A310",
+    "category": "liner"
+  },
+    {
+    "images": ["images/a3201.jpg","images/a3202.jpg","images/a3203.jpg"],
+    "answer": "Airbus A320",
+    "category": "liner"
+  },
+  {
+    "images": ["images/a3301.jpg","images/a3302.jpg","images/a3303.jpg"],
+    "answer": "Airbus A330",
+    "category": "liner"
+  },
+  {
+    "images": ["images/a3401.jpg","images/a3402.jpg","images/a3403.jpg"],
+    "answer": "Airbus A340",
+    "category": "liner"
+  },
+  {
+    "images": ["images/a3501.jpg","images/a3502.jpg","images/a3503.jpg"],
+    "answer": "Airbus A350",
+    "category": "liner"
+  },
+  {
+    "images": ["images/a3801.jpg","images/a3802.jpg","images/a3803.jpg"],
+    "answer": "Airbus A380",
+    "category": "liner"
+  },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27",
