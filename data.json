@@ -369,6 +369,216 @@
     "answer": "Airbus A380",
     "category": "liner"
   },
+  {
+    "images": ["images/charger.jpg"],
+    "answer": "Dodge Charger",
+    "category": "intro"
+  },
+  {
+    "images": ["images/cutlass.jpg"],
+    "answer": "Cutlass",
+    "category": "intro"
+  },
+  {
+    "images": ["images/db5.jpg"],
+    "answer": "Aston Martin DB5",
+    "category": "intro"
+  },
+{
+    "images": ["images/dbs.jpg"],
+    "answer": "Aston Martin DBS",
+    "category": "intro"
+  },
+  {
+    "images": ["images/delorean.jpg"],
+    "answer": "Delorean DMC-12",
+    "category": "intro"
+  },
+  {
+    "images": ["images/dela.jpg"],
+    "answer": "Lancia Delta HF Integral",
+    "category": "intro"
+  },
+  {
+    "images": ["images/4l.jpg"],
+    "answer": "Renault 4l",
+    "category": "intro"
+  },
+  {
+    "images": ["images/205rally.jpg"],
+    "answer": "Peugeot 205 Rally",
+    "category": "intro"
+  },
+  {
+    "images": ["images/407.jpg"],
+    "answer": "Peugeot 407",
+    "category": "intro"
+  },
+  {
+    "images": ["images/1000tiplat.jpg"],
+    "answer": "1000tiplat",
+    "category": "intro"
+  },
+  {
+    "images": ["images/africatwin.jpg"],
+    "answer": "Africa Twin",
+    "category": "intro"
+  },
+  {
+    "images": ["images/aidct5.jpg"],
+    "answer": "AIDC T5",
+    "category": "intro"
+  },
+  {
+    "images": ["images/adictk1.jpg"],
+    "answer": "AIDC TK1",
+    "category": "intro"
+  },
+  {
+    "images": ["images/at3.jpg"],
+    "answer": "AT-3",
+    "category": "intro"
+  },
+  {
+    "images": ["images/bd5.jpg"],
+    "answer": "BD-5",
+    "category": "intro"
+  },
+  {
+    "images": ["images/bmw750.jpg"],
+    "answer": "BMW 750IL",
+    "category": "intro"
+  },
+  {
+    "images": ["images/captur.jpg"],
+    "answer": "Renault Captur",
+    "category": "intro"
+  },
+  {
+    "images": ["images/challenger.jpg"],
+    "answer": "Dodge Challenger",
+    "category": "intro"
+  },
+  {
+    "images": ["images/esprit.jpg"],
+    "answer": "Lotus Esprit",
+    "category": "intro"
+  },
+  {
+    "images": ["images/gpz900.jpg"],
+    "answer": "Kawasaki GPZ-900",
+    "category": "intro"
+  },
+  {
+    "images": ["images/gtr.jpg"],
+    "answer": "Nissan GTR",
+    "category": "intro"
+  },
+  {
+    "images": ["images/h2r.jpg"],
+    "answer": "Kawasaki H2R",
+    "category": "intro"
+  },
+  {
+    "images": ["images/htj36.jpg"],
+    "answer": "HTJ-36",
+    "category": "intro"
+  },
+  {
+    "images": ["images/la15.jpg"],
+    "answer": "la15",
+    "category": "intro"
+  },
+  {
+    "images": ["images/m1000rr.jpg"],
+    "answer": "BMW M1000RR",
+    "category": "intro"
+  },
+  {
+    "images": ["images/marut.jpg"],
+    "answer": "HAL Marut",
+    "category": "intro"
+  },
+  {
+    "images": ["images/mvagusta.jpg"],
+    "answer": "MV Agusta Dragster",
+    "category": "intro"
+  },
+  {
+    "images": ["images/nevada.jpg"],
+    "answer": "Renault Nevada",
+    "category": "intro"
+  },
+  {
+    "images": ["images/nf104.jpg"],
+    "answer": "NF-104",
+    "category": "intro"
+  },
+  {
+    "images": ["images/panigale.jpg"],
+    "answer": "Ducati Panigale",
+    "category": "intro"
+  },
+  {
+    "images": ["images/rocket.jpg"],
+    "answer": "Triumph Rocket",
+    "category": "intro"
+  },
+  {
+    "images": ["images/s2000.jpg"],
+    "answer": "Honda S2000",
+    "category": "intro"
+  },
+  {
+    "images": ["images/saab29.jpg"],
+    "answer": "Saab 29",
+    "category": "intro"
+  },
+  {
+    "images": ["images/seabee.jpg"],
+    "answer": "Seabee",
+    "category": "intro"
+  },
+  {
+    "images": ["images/skyrocket.jpg"],
+    "answer": "Skyrocket",
+    "category": "intro"
+  },
+  {
+    "images": ["images/sukhoi15.jpg"],
+    "answer": "Sukhoi 15",
+    "category": "intro"
+  },
+  {
+    "images": ["images/superadventure.jpg"],
+    "answer": "KTM SuperAdventure",
+    "category": "intro"
+  },
+  {
+    "images": ["images/supra.jpg"],
+    "answer": "Toyota Supra",
+    "category": "intro"
+  },
+  {
+    "images": ["images/twingo.jpg"],
+    "answer": "Renault Twingo",
+    "category": "intro"
+  },
+  {
+    "images": ["images/vegamissile.jpg"],
+    "answer": "Vega Missile",
+    "category": "intro"
+  },
+  {
+    "images": ["images/x32.jpg"],
+    "answer": "X-32",
+    "category": "intro"
+  },
+  {
+    "images": ["images/z3.jpg"],
+    "answer": "BMW Z3",
+    "category": "intro"
+  },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27",
