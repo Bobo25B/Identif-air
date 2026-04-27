@@ -139,6 +139,16 @@
     "answer": "Mig-31 Foxhound",
     "category": "chasseur"
   },
+  {
+    "images": ["images/su751.jpg","images/su752.jpg","images/su753.jpg"],
+    "answer": "Sukhoi 75 Checkmate",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/su251.jpg","images/su252.jpg","images/su253.jpg"],
+    "answer": "Su-25 Frogfoot",
+    "category": "chasseur"
+  },
     {
     "images": ["images/a400m1.jpg","images/a400m2.jpg","images/a400m3.jpg"],
     "answer": "Airbus A400M",
@@ -202,6 +212,16 @@
     {
     "images": ["images/an1241.jpg","images/an1242.jpg","images/an1243.jpg"],
     "answer": "An-124",
+    "category": "transport"
+  },
+   {
+    "images": ["images/y201.jpg","images/y202.jpg","images/y203.jpg"],
+    "answer": "Y-20",
+    "category": "transport"
+  },
+   {
+    "images": ["images/c271.jpg","images/c272.jpg","images/c273.jpg"],
+    "answer": "C-27J Spartan",
     "category": "transport"
   },
     {
@@ -314,6 +334,11 @@
     "answer": "Mi-8",
     "category": "helico"
   },
+    {
+    "images": ["images/oh581.jpg","images/oh582.jpg","images/oh583.jpg"],
+    "answer": "OH-58 Kiowa",
+    "category": "helico"
+  },
    {
     "images": ["images/b7471.jpg","images/b7472.jpg","images/b7473.jpg"],
     "answer": "Boeing 747",
@@ -372,6 +397,21 @@
   {
     "images": ["images/a3801.jpg","images/a3802.jpg","images/a3803.jpg"],
     "answer": "Airbus A380",
+    "category": "liner"
+  },
+  {
+    "images": ["images/su1001.jpg","images/su1002.jpg","images/su1003.jpg"],
+    "answer": "Sukhoi 100 SuperJet",
+    "category": "liner"
+  },
+  {
+    "images": ["images/bae1461.jpg","images/bae1462.jpg","images/bae1463.jpg"],
+    "answer": "BAE 146",
+    "category": "liner"
+  },
+  {
+    "images": ["images/c9191.jpg","images/c9192.jpg","images/c9193.jpg"],
+    "answer": "Comac 919",
     "category": "liner"
   },
     {
