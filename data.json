@@ -55,6 +55,11 @@
     "category": "chasseur"
   },
   {
+    "images": ["images/yak1301.jpg","images/yak1302.jpg","images/yak1303.jpg"],
+    "answer": "Yak-130",
+    "category": "chasseur"
+  },
+  {
     "images": ["images/f151.jpg","images/f152.jpg","images/f153.jpg","images/f154.jpg"],
     "answer": "F-15 Eagle",
     "category": "chasseur"
@@ -98,6 +103,21 @@
     "images": ["images/j151.jpg","images/j152.jpg","images/j153.jpg"],
     "answer": "Shenyang J-15 Flying Shark",
     "category": "chasseur"
+  },
+  {
+    "images": ["images/jf171.jpg","images/jf172.jpg","images/jf173.jpg"],
+    "answer": "JF-17 Thunder",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/f51.jpg","images/f52.jpg","images/f53.jpg"],
+    "answer": "F-5 Freedom Fighter",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/f1171.jpg","images/f1172.jpg","images/f1173.jpg"],
+    "answer": "F-117 NightHawk",
+    "category": "bombardier"
   },
     {
     "images": ["images/j201.jpg","images/j202.jpg","images/j203.jpg"],
@@ -201,7 +221,7 @@
   },
     {
     "images": ["images/il761.jpg","images/il762.jpg","images/il763.jpg"],
-    "answer": "Il_76",
+    "answer": "Il-76",
     "category": "transport"
   },
     {
@@ -222,6 +242,21 @@
    {
     "images": ["images/c271.jpg","images/c272.jpg","images/c273.jpg"],
     "answer": "C-27J Spartan",
+    "category": "transport"
+  },
+   {
+    "images": ["images/an701.jpg","images/an702.jpg","images/an703.jpg"],
+    "answer": "An-70",
+    "category": "transport"
+  },
+   {
+    "images": ["images/an2251.jpg","images/an2252.jpg","images/an2253.jpg"],
+    "answer": "An-225 Myria",
+    "category": "transport"
+  },
+   {
+    "images": ["images/c21.jpg","images/c22.jpg","images/c23.jpg"],
+    "answer": "Kawasaki C-2",
     "category": "transport"
   },
     {
