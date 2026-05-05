@@ -4,6 +4,16 @@
     "answer": "Rafale",
     "category": "chasseur"
   },
+   {
+    "images": ["images/f11.jpg","images/f12.jpg","images/f13.jpg"],
+    "answer": "Mirage F1",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/sem1.jpg","images/sem2.jpg","images/sem3.jpg"],
+    "answer": "Super Etandart Modernisé",
+    "category": "chasseur"
+  },
   {
     "images": ["images/su571.jpg","images/su572.jpg","images/su573.jpg","images/su574.jpg"],
     "answer": "Su-57 Felon",
@@ -42,6 +52,26 @@
   {
     "images": ["images/f221.jpg","images/f222.jpg","images/f223.jpg","images/f224.jpg"],
     "answer": "F-22 Raptor",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/f141.jpg","images/f142.jpg","images/f143.jpg"],
+    "answer": "Grumman F-14 Tomcat",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/crus1.jpg","images/crus2.jpg","images/crus3.jpg"],
+    "answer": "F-8 Crusader",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/corsair1.jpg","images/corsair2.jpg","images/corsair3.jpg"],
+    "answer": "A-7 Corsair",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/f1111.jpg","images/f1112.jpg","images/f1113.jpg"],
+    "answer": "F-111 Aardvark",
     "category": "chasseur"
   },
   {
@@ -129,6 +159,16 @@
     "answer": "Chengdu J-10",
     "category": "chasseur"
   },
+  {
+    "images": ["images/j111.jpg","images/j112.jpg","images/j113.jpg"],
+    "answer": "Shenyang J-11",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/jh71.jpg","images/jh72.jpg","images/jh73.jpg"],
+    "answer": "Xian JH-7 Flounder",
+    "category": "chasseur"
+  },
     {
     "images": ["images/j351.jpg","images/j352.jpg","images/j353.jpg"],
     "answer": "Shenyang J-35A",
@@ -142,6 +182,16 @@
    {
     "images": ["images/gripen1.jpg","images/gripen2.jpg","images/gripen3.jpg"],
     "answer": "Saab Gripen",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/draken1.jpg","images/draken2.jpg","images/draken3.jpg"],
+    "answer": "Saab Draken",
+    "category": "chasseur"
+  },
+   {
+    "images": ["images/viggen1.jpg","images/viggen2.jpg","images/viggen3.jpg"],
+    "answer": "Saab Viggen",
     "category": "chasseur"
   },
    {
