@@ -259,6 +259,46 @@
     "answer": "Kawasaki C-2",
     "category": "transport"
   },
+  {
+    "images": ["images/ac1301.jpg","images/ac1302.jpg","images/ac1303.jpg"],
+    "answer": "AC-130",
+    "category": "transport"
+  },
+  {
+    "images": ["images/e41.jpg","images/e42.jpg","images/e43.jpg"],
+    "answer": "E-4",
+    "category": "transport"
+  },
+  {
+    "images": ["images/greyhound1.jpg","images/greyhound2.jpg","images/greyhound3.jpg"],
+    "answer": "C-2 Greyhound",
+    "category": "transport"
+  },
+  {
+    "images": ["images/p31.jpg","images/p32.jpg","images/p33.jpg"],
+    "answer": "P-3 Orion",
+    "category": "transport"
+  },
+  {
+    "images": ["images/p81.jpg","images/p82.jpg","images/p83.jpg"],
+    "answer": "P-8 Poseidon",
+    "category": "transport"
+  },
+  {
+    "images": ["images/rc1351.jpg","images/rc1352.jpg","images/rc1353.jpg"],
+    "answer": "RC-135 RivetJoint",
+    "category": "transport"
+  },
+  {
+    "images": ["images/s31.jpg","images/s32.jpg","images/s33.jpg"],
+    "answer": "S3 Viking",
+    "category": "transport"
+  },
+  {
+    "images": ["images/kj20001.jpg","images/kj20002.jpg","images/kj20003.jpg"],
+    "answer": "KJ-2000",
+    "category": "transport"
+  },
     {
     "images": ["images/ka501.jpg","images/ka502.jpg","images/ka503.jpg"],
     "answer": "Ka-50",
@@ -372,6 +412,16 @@
     {
     "images": ["images/oh581.jpg","images/oh582.jpg","images/oh583.jpg"],
     "answer": "OH-58 Kiowa",
+    "category": "helico"
+  },
+    {
+    "images": ["images/ah11.jpg","images/ah12.jpg","images/ah13.jpg"],
+    "answer": "AH-1 Cobra",
+    "category": "helico"
+  },
+    {
+    "images": ["images/huey1.jpg","images/huey2.jpg","images/huey3.jpg"],
+    "answer": "UH-1 Huey",
     "category": "helico"
   },
    {
