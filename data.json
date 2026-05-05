@@ -2,7 +2,7 @@
   {
     "images": ["images/rafale1.jpg","images/rafale2.jpg","images/rafale3.jpg","images/rafale4.jpg"],
     "answer": "Rafale",
-    "category": "chasseur"
+    "category": "chasseur","russie"
   },
    {
     "images": ["images/f11.jpg","images/f12.jpg","images/f13.jpg"],
