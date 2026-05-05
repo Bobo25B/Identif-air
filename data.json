@@ -80,6 +80,16 @@
     "category": "chasseur"
   },
   {
+    "images": ["images/typhoon1.jpg","images/typhoon2.jpg","images/typhoon3.jpg"],
+    "answer": "Eurofighter Typhoon",
+    "category": "chasseur"
+  },
+  {
+    "images": ["images/tornado1.jpg","images/tornado2.jpg","images/tornado3.jpg"],
+    "answer": "Panavia Tornado",
+    "category": "chasseur"
+  },
+  {
     "images": ["images/mig291.jpg","images/mig292.jpg","images/mig293.jpg","images/mig294.jpg"],
     "answer": "Mig 29 Fulcrum",
     "category": "chasseur"
