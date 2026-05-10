@@ -2,37 +2,37 @@
   {
     "images": ["images/rafale1.jpg","images/rafale2.jpg","images/rafale3.jpg","images/rafale4.jpg"],
     "answer": "Rafale",
-    "category": "chasseur"
+    "category": "chasseur",
      "nationalite": "russie"
   },
    {
     "images": ["images/f11.jpg","images/f12.jpg","images/f13.jpg"],
     "answer": "Mirage F1",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "france"
   },
    {
     "images": ["images/sem1.jpg","images/sem2.jpg","images/sem3.jpg"],
     "answer": "Super Etandart Modernisé",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "france"
   },
   {
     "images": ["images/su571.jpg","images/su572.jpg","images/su573.jpg","images/su574.jpg"],
     "answer": "Su-57 Felon",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
   {
     "images": ["images/su241.jpg","images/su242.jpg","images/su243.jpg","images/su244.jpg"],
     "answer": "Su-24 Fencer",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
   {
     "images": ["images/mig231.jpg","images/mig232.jpg","images/mig233.jpg","images/mig234.jpg"],
     "answer": "Mig-23 Flogger",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
   {
@@ -43,101 +43,103 @@
   {
     "images": ["images/a101.jpg","images/a102.jpg","images/a103.jpg","images/a104.jpg"],
     "answer": "A-10C Warthog",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
   {
     "images": ["images/harrier1.jpg","images/harrier2.jpg","images/harrier3.jpg","images/harrier4.jpg"],
     "answer": "AV-8B Harrier",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
   {
     "images": ["images/f161.jpg","images/f162.jpg","images/f163.jpg","images/f164.jpg"],
     "answer": "F-16 Falcon",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
   {
     "images": ["images/f221.jpg","images/f222.jpg","images/f223.jpg","images/f224.jpg"],
     "answer": "F-22 Raptor",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
    {
     "images": ["images/f141.jpg","images/f142.jpg","images/f143.jpg"],
     "answer": "Grumman F-14 Tomcat",
-    "category": "chasseur"
+    "category": "chasseur",
      "nationalite": "usa"
   },
    {
     "images": ["images/crus1.jpg","images/crus2.jpg","images/crus3.jpg"],
     "answer": "F-8 Crusader",
-    "category": "chasseur"
+    "category": "chasseur",
      "nationalite": "usa"
   },
   {
     "images": ["images/corsair1.jpg","images/corsair2.jpg","images/corsair3.jpg"],
     "answer": "A-7 Corsair",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
    {
     "images": ["images/f1111.jpg","images/f1112.jpg","images/f1113.jpg"],
     "answer": "F-111 Aardvark",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
   {
     "images": ["images/m2000c1.jpg","images/m2000c2.jpg","images/m2000c3.jpg"],
     "answer": "Mirage 2000C",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "france"
   },
   {
     "images": ["images/typhoon1.jpg","images/typhoon2.jpg","images/typhoon3.jpg"],
     "answer": "Eurofighter Typhoon",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "europe"
   },
   {
     "images": ["images/tornado1.jpg","images/tornado2.jpg","images/tornado3.jpg"],
     "answer": "Panavia Tornado",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "europe"
   },
   {
     "images": ["images/mig291.jpg","images/mig292.jpg","images/mig293.jpg","images/mig294.jpg"],
     "answer": "Mig 29 Fulcrum",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
   {
     "images": ["images/yak1301.jpg","images/yak1302.jpg","images/yak1303.jpg"],
     "answer": "Yak-130",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
   {
     "images": ["images/f151.jpg","images/f152.jpg","images/f153.jpg","images/f154.jpg"],
     "answer": "F-15 Eagle",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
   {
     "images": ["images/f35a1.jpg","images/f35a2.jpg","images/f35a3.jpg","images/f35a4.jpg"],
     "answer": "F-35A",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
   {
     "images": ["images/f35b1.jpg","images/f35b2.jpg","images/f35b3.jpg","images/f35b4.jpg"],
     "answer": "F-35B",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
     {
     "images": ["images/f35c1.jpg","images/f35c2.jpg","images/f35c3.jpg","images/f35c4.jpg"],
     "answer": "F-35C",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
     {
@@ -148,19 +150,19 @@
   {
     "images": ["images/f181.jpg","images/f182.jpg","images/f183.jpg"],
     "answer": "F-18 hornet",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
    {
     "images": ["images/rhino1.jpg","images/rhino2.jpg","images/rhino3.jpg"],
     "answer": "F-18 Super Hornet",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
   {
     "images": ["images/su301.jpg","images/su302.jpg","images/su303.jpg","images/su304.jpg"],
     "answer": "Su-30",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
     {
@@ -176,13 +178,13 @@
   {
     "images": ["images/f51.jpg","images/f52.jpg","images/f53.jpg"],
     "answer": "F-5 Freedom Fighter",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "usa"
   },
   {
     "images": ["images/f1171.jpg","images/f1172.jpg","images/f1173.jpg"],
     "answer": "F-117 NightHawk",
-    "category": "bombardier"
+    "category": "bombardier",
     "nationalite": "usa"
   },
     {
@@ -213,23 +215,26 @@
    {
     "images": ["images/gadget1.jpg","images/gadget2.jpg","images/gadget3.jpg"],
     "answer": "Alphajet",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "france"
   },
    {
     "images": ["images/gripen1.jpg","images/gripen2.jpg","images/gripen3.jpg"],
     "answer": "Saab Gripen",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "suede" 
   },
    {
     "images": ["images/draken1.jpg","images/draken2.jpg","images/draken3.jpg"],
     "answer": "Saab Draken",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "suede" 
   },
    {
     "images": ["images/viggen1.jpg","images/viggen2.jpg","images/viggen3.jpg"],
     "answer": "Saab Viggen",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "suede" 
   },
    {
     "images": ["images/tejas1.jpg","images/tejas2.jpg","images/tejas3.jpg"],
@@ -239,60 +244,62 @@
    {
     "images": ["images/mig251.jpg","images/mig252.jpg","images/mig253.jpg"],
     "answer": "Mig-25 Foxbat",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
    {
     "images": ["images/mig311.jpg","images/mig312.jpg","images/mig313.jpg"],
     "answer": "Mig-31 Foxhound",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
   {
     "images": ["images/su751.jpg","images/su752.jpg","images/su753.jpg"],
     "answer": "Sukhoi 75 Checkmate",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
   {
     "images": ["images/su251.jpg","images/su252.jpg","images/su253.jpg"],
     "answer": "Su-25 Frogfoot",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   },
     {
     "images": ["images/a400m1.jpg","images/a400m2.jpg","images/a400m3.jpg"],
     "answer": "Airbus A400M",
-    "category": "transport"
+    "category": "transport",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/c130h1.jpg","images/c130h2.jpg","images/c130h3.jpg"],
     "answer": "C-130H",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/c171.jpg","images/c172.jpg","images/c173.jpg"],
     "answer": "C-17 Globemaster",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/c1351.jpg","images/c1352.jpg","images/c1353.jpg"],
     "answer": "C-135",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/kc461.jpg","images/kc462.jpg","images/kc463.jpg"],
     "answer": "KC-46 Pegasus",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
     {
     "images": ["images/c2351.jpg","images/c2352.jpg","images/c2353.jpg"],
     "answer": "Casa 235",
-    "category": "transport"
+    "category": "transport",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/kc3901.jpg","images/kc3902.jpg","images/kc3903.jpg"],
@@ -302,13 +309,13 @@
   {
     "images": ["images/c51.jpg","images/c51.jpg","images/c53.jpg"],
     "answer": "C-5 Galaxy",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/hawkeye1.jpg","images/hawkeye2.jpg","images/hawkeye3.jpg"],
     "answer": "Hawkeye E-2",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
@@ -319,19 +326,19 @@
     {
     "images": ["images/il761.jpg","images/il762.jpg","images/il763.jpg"],
     "answer": "Il-76",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "russie"
   },
     {
     "images": ["images/a501.jpg","images/a502.jpg","images/a503.jpg"],
     "answer": "A-50 Mainstay",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "russie"
   },
     {
     "images": ["images/an1241.jpg","images/an1242.jpg","images/an1243.jpg"],
     "answer": "An-124",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "russie"
   },
    {
@@ -342,18 +349,19 @@
    {
     "images": ["images/c271.jpg","images/c272.jpg","images/c273.jpg"],
     "answer": "C-27J Spartan",
-    "category": "transport"
+    "category": "transport",
+    "nationalite": "europe" 
   },
    {
     "images": ["images/an701.jpg","images/an702.jpg","images/an703.jpg"],
     "answer": "An-70",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "russie"
   },
    {
     "images": ["images/an2251.jpg","images/an2252.jpg","images/an2253.jpg"],
     "answer": "An-225 Myria",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "russie"
   },
    {
@@ -364,43 +372,43 @@
   {
     "images": ["images/ac1301.jpg","images/ac1302.jpg","images/ac1303.jpg"],
     "answer": "AC-130",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/e41.jpg","images/e42.jpg","images/e43.jpg"],
     "answer": "E-4",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/greyhound1.jpg","images/greyhound2.jpg","images/greyhound3.jpg"],
     "answer": "C-2 Greyhound",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/p31.jpg","images/p32.jpg","images/p33.jpg"],
     "answer": "P-3 Orion",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/p81.jpg","images/p82.jpg","images/p83.jpg"],
     "answer": "P-8 Poseidon",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/rc1351.jpg","images/rc1352.jpg","images/rc1353.jpg"],
     "answer": "RC-135 RivetJoint",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/s31.jpg","images/s32.jpg","images/s33.jpg"],
     "answer": "S3 Viking",
-    "category": "transport"
+    "category": "transport",
     "nationalite": "usa"
   },
   {
@@ -411,223 +419,236 @@
     {
     "images": ["images/ka501.jpg","images/ka502.jpg","images/ka503.jpg"],
     "answer": "Ka-50",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "russie"
   },
   {
     "images": ["images/b21.jpg","images/b22.jpg","images/b23.jpg"],
     "answer": "B-2 SPIRIT",
-    "category": "bombardier"
+    "category": "bombardier",
     "nationalite": "usa"
   },
   {
     "images": ["images/tu1601.jpg","images/tu1602.jpg","images/tu1603.jpg"],
     "answer": "Tu-160 Blackjack",
-    "category": "bombardier"
+    "category": "bombardier",
     "nationalite": "russie"
   },
   {
     "images": ["images/tu22m1.jpg","images/tu22m2.jpg","images/tu22m3.jpg"],
     "answer": "Tu-22M Backfire",
-    "category": "bombardier"
+    "category": "bombardier",
     "nationalite": "russie"
   },
   {
     "images": ["images/tu951.jpg","images/tu952.jpg","images/tu953.jpg"],
     "answer": "TU-95 Bear",
-    "category": "bombardier"
+    "category": "bombardier",
     "nationalite": "russie"
   },
   {
     "images": ["images/b521.jpg","images/b522.jpg","images/b523.jpg"],
     "answer": "B-52",
-    "category": "bombardier"
+    "category": "bombardier",
     "nationalite": "usa"
   },
   {
     "images": ["images/b211.jpg","images/b212.jpg","images/b213.jpg"],
     "answer": "B-21 Raider",
-    "category": "bombardier"
+    "category": "bombardier",
     "nationalite": "usa"
   },
    {
     "images": ["images/caracal1.jpg","images/caracal2.jpg","images/caracal3.jpg"],
     "answer": "H-225M Caracal",
-    "category": "helico"
+    "category": "helico",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/tigre1.jpg","images/tigre2.jpg","images/tigre3.jpg"],
     "answer": "Tigre",
-    "category": "helico"
+    "category": "helico",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/nh901.jpg","images/nh902.jpg","images/nh903.jpg"],
     "answer": "NH-90",
-    "category": "helico"
+    "category": "helico",
+    "nationalite": "europe" 
   },
    {
     "images": ["images/dauphin1.jpg","images/dauphin2.jpg","images/dauphin3.jpg"],
     "answer": "Dauphin",
-    "category": "helico"
+    "category": "helico",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/lynx1.jpg","images/lynx2.jpg","images/lynx3.jpg"],
     "answer": "Lynx",
-    "category": "helico"
+    "category": "helico",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/s611.jpg","images/s612.jpg","images/s613.jpg"],
     "answer": "S-61 Sea King",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "usa"
   },
    {
     "images": ["images/mi241.jpg","images/mi242.jpg","images/mi243.jpg"],
     "answer": "Mi-24 Hind",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "russie"
   },
    {
     "images": ["images/mi281.jpg","images/mi282.jpg","images/mi283.jpg"],
     "answer": "Mi-28 Havoc",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "russie"
   },
   {
     "images": ["images/uh601.jpg","images/uh602.jpg","images/uh603.jpg"],
     "answer": "UH-60 Black Hawk",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "usa"
   },
   {
     "images": ["images/chinook1.jpg","images/chinook2.jpg","images/chinook3.jpg"],
     "answer": "Chinook",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "usa"
   },
   {
     "images": ["images/apache1.jpg","images/apache2.jpg","images/apache3.jpg"],
     "answer": "AH-64 Apache",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "usa"
   },
    {
     "images": ["images/h1601.jpg","images/h1602.jpg","images/h1603.jpg"],
     "answer": "H-160",
-    "category": "helico"
+    "category": "helico",
+    "nationalite": "europe" 
   },
    {
     "images": ["images/mi261.jpg","images/mi262.jpg","images/mi263.jpg"],
     "answer": "Mi-26",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "russie"
   },
    {
     "images": ["images/stallion1.jpg","images/stallion2.jpg","images/stallion3.jpg"],
     "answer": "CH-53 King Stallion",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "usa"
   },
   {
     "images": ["images/mi81.jpg","images/mi82.jpg","images/mi82.jpg"],
     "answer": "Mi-8",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "russie"
   },
     {
     "images": ["images/oh581.jpg","images/oh582.jpg","images/oh583.jpg"],
     "answer": "OH-58 Kiowa",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "usa"
   },
     {
     "images": ["images/ah11.jpg","images/ah12.jpg","images/ah13.jpg"],
     "answer": "AH-1 Cobra",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "usa"
   },
     {
     "images": ["images/huey1.jpg","images/huey2.jpg","images/huey3.jpg"],
     "answer": "UH-1 Huey",
-    "category": "helico"
+    "category": "helico",
     "nationalite": "usa"
   },
    {
     "images": ["images/b7471.jpg","images/b7472.jpg","images/b7473.jpg"],
     "answer": "Boeing 747",
-    "category": "liner"
+    "category": "liner",
     "nationalite": "usa"
   },
    {
     "images": ["images/b7371.jpg","images/b7372.jpg","images/b7373.jpg"],
     "answer": "Boeing 737",
-    "category": "liner"
+    "category": "liner",
     "nationalite": "usa"
   },
    {
     "images": ["images/b7671.jpg","images/b7672.jpg","images/b7673.jpg"],
     "answer": "Boeing 767",
-    "category": "liner"
+    "category": "liner",
     "nationalite": "usa"
   },
    {
     "images": ["images/b7871.jpg","images/b7872.jpg","images/b7873.jpg"],
     "answer": "Boeing 787",
-    "category": "liner"
+    "category": "liner",
     "nationalite": "usa"
   },
    {
     "images": ["images/b7571.jpg","images/b7572.jpg","images/b7573.jpg"],
     "answer": "Boeing 757",
-    "category": "liner"
+    "category": "liner",
     "nationalite": "usa"
   },
    {
     "images": ["images/b7771.jpg","images/b7772.jpg","images/b7773.jpg"],
     "answer": "Boeing 777",
-    "category": "liner"
+    "category": "liner",
     "nationalite": "usa"
   },
   {
     "images": ["images/a3101.jpg","images/a3102.jpg","images/a3103.jpg"],
     "answer": "Airbus A310",
-    "category": "liner"
+    "category": "liner",
+    "nationalite": "europe" 
   },
     {
     "images": ["images/a3201.jpg","images/a3202.jpg","images/a3203.jpg"],
     "answer": "Airbus A320",
-    "category": "liner"
+    "category": "liner",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/a3301.jpg","images/a3302.jpg","images/a3303.jpg"],
     "answer": "Airbus A330",
-    "category": "liner"
+    "category": "liner",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/a3401.jpg","images/a3402.jpg","images/a3403.jpg"],
     "answer": "Airbus A340",
-    "category": "liner"
+    "category": "liner",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/a3501.jpg","images/a3502.jpg","images/a3503.jpg"],
     "answer": "Airbus A350",
-    "category": "liner"
+    "category": "liner",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/a3801.jpg","images/a3802.jpg","images/a3803.jpg"],
     "answer": "Airbus A380",
-    "category": "liner"
+    "category": "liner",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/su1001.jpg","images/su1002.jpg","images/su1003.jpg"],
     "answer": "Sukhoi 100 SuperJet",
-    "category": "liner"
+    "category": "liner",
     "nationalite": "russie"
   },
   {
     "images": ["images/bae1461.jpg","images/bae1462.jpg","images/bae1463.jpg"],
     "answer": "BAE 146",
-    "category": "liner"
+    "category": "liner",
+    "nationalite": "europe" 
   },
   {
     "images": ["images/c9191.jpg","images/c9192.jpg","images/c9193.jpg"],
@@ -637,7 +658,7 @@
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
     "answer": "Su-27",
-    "category": "chasseur"
+    "category": "chasseur",
     "nationalite": "russie"
   }
 
