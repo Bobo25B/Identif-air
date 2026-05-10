@@ -342,7 +342,7 @@
     "nationalite": "europe" 
   },
    {
-    "images": ["images/transall1.jpg","images/trnasall2.jpg","images/transall3.jpg"],
+    "images": ["images/transall1.jpg","images/transall2.jpg","images/transall3.jpg"],
     "answer": "Transall C-160",
     "category": "transport",
     "nationalite": "europe" 
