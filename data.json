@@ -161,6 +161,18 @@
     "category": "chasseur",
     "nationalite": "usa"
   },
+   {
+    "images": ["images/ea181.jpg","images/ea182.jpg","images/ea183.jpg"],
+    "answer": "EA-18 Growler",
+    "category": "chasseur",
+    "nationalite": "usa"
+  },
+  {
+    "images": ["images/f41.jpg","images/f42.jpg","images/f43.jpg"],
+    "answer": "F-4 Phantom",
+    "category": "chasseur",
+    "nationalite": "usa"
+  },
   {
     "images": ["images/su301.jpg","images/su302.jpg","images/su303.jpg","images/su304.jpg"],
     "answer": "Su-30",
