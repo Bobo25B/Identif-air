@@ -558,6 +558,24 @@
     "nationalite": "europe" 
   },
   {
+    "images": ["images/eh1011.jpg","images/eh1012.jpg","images/eh1013.jpg"],
+    "answer": "EH-101",
+    "category": "helico",
+    "nationalite": "europe" 
+  },
+  {
+    "images": ["images/a1291.jpg","images/a1292.jpg","images/a1293.jpg"],
+    "answer": "A129 Mangusta",
+    "category": "helico",
+    "nationalite": "europe" 
+  },
+  {
+    "images": ["images/aw1391.jpg","images/aw1392.jpg","images/aw1393.jpg"],
+    "answer": "AW 139",
+    "category": "helico",
+    "nationalite": "europe" 
+  },
+  {
     "images": ["images/lynx1.jpg","images/lynx2.jpg","images/lynx3.jpg"],
     "answer": "Lynx",
     "category": "helico",
