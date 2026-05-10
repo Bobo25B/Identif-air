@@ -17,16 +17,35 @@
 <h1>✈️ Devine l'avion</h1>
 
 <div id="filters">
-  <label><input type="checkbox" value="chasseur" checked> Chasseurs</label>
-  <label><input type="checkbox" value="bombardier" checked> Bombardiers</label>
-  <label><input type="checkbox" value="transport" checked> Transport</label>
-  <label><input type="checkbox" value="helico" checked> Hélicoptères</label>
-  <label><input type="checkbox" value="liner" checked> Avion de ligne</label>
+
+  <!-- TYPES -->
+  <div class="filter-group">
+    <h3>Type d'avion</h3>
+
+    <label><input type="checkbox" value="chasseur" checked> Chasseurs</label>
+    <label><input type="checkbox" value="bombardier" checked> Bombardiers</label>
+    <label><input type="checkbox" value="transport" checked> Transport</label>
+    <label><input type="checkbox" value="helico" checked> Hélicoptères</label>
+    <label><input type="checkbox" value="liner" checked> Avions de ligne</label>
+  </div>
+
+  <!-- NATIONALITÉS -->
+  <div class="filter-group">
+    <h3>Nationalité</h3>
+
+    <label><input type="checkbox" value="france" checked> 🇫🇷 France</label>
+    <label><input type="checkbox" value="usa" checked> 🇺🇸 USA</label>
+    <label><input type="checkbox" value="russie" checked> 🇷🇺 Russie</label>
+    <label><input type="checkbox" value="uk" checked> 🇬🇧 Royaume-Uni</label>
+    <label><input type="checkbox" value="allemagne" checked> 🇩🇪 Allemagne</label>
+  </div>
+
 </div>
 
 <div class="container">
   <img id="planeImage" src="" alt="Avion">
   <p id="result"></p>
+
   <button id="answerBtn">Voir la réponse</button>
   <button id="nextBtn">Suivant</button>
 </div>
