@@ -311,6 +311,24 @@
     "category": "transport",
     "nationalite": "europe" 
   },
+    {
+    "images": ["images/c2951.jpg","images/c2952.jpg","images/c2953.jpg"],
+    "answer": "Casa 295",
+    "category": "transport",
+    "nationalite": "europe" 
+  },
+   {
+    "images": ["images/atl21.jpg","images/atl22.jpg","images/atl23.jpg"],
+    "answer": "Atlantic 2",
+    "category": "transport",
+    "nationalite": "europe" 
+  },
+   {
+    "images": ["images/c1601.jpg","images/c1602.jpg","images/c1603.jpg"],
+    "answer": "Transall C-160",
+    "category": "transport",
+    "nationalite": "europe" 
+  },
   {
     "images": ["images/kc3901.jpg","images/kc3902.jpg","images/kc3903.jpg"],
     "answer": "KC-390",
@@ -504,8 +522,38 @@
     "nationalite": "europe" 
   },
   {
+    "images": ["images/h1751.jpg","images/h1752.jpg","images/h1753.jpg"],
+    "answer": "H-175",
+    "category": "helico",
+    "nationalite": "europe" 
+  },
+  {
+    "images": ["images/fennec1.jpg","images/fennec2.jpg","images/fennec3.jpg"],
+    "answer": "Fennec",
+    "category": "helico",
+    "nationalite": "europe" 
+  },
+  {
     "images": ["images/s611.jpg","images/s612.jpg","images/s613.jpg"],
     "answer": "S-61 Sea King",
+    "category": "helico",
+    "nationalite": "usa"
+  },
+  {
+    "images": ["images/v221.jpg","images/v222.jpg","images/v223.jpg"],
+    "answer": "V-22 Osprey",
+    "category": "helico",
+    "nationalite": "usa"
+  },
+  {
+    "images": ["images/v2801.jpg","images/v2802.jpg","images/v2803.jpg"],
+    "answer": "V-280 Valor",
+    "category": "helico",
+    "nationalite": "usa"
+  },
+  {
+    "images": ["images/s921.jpg","images/s922.jpg","images/s923.jpg"],
+    "answer": "S-92",
     "category": "helico",
     "nationalite": "usa"
   },
@@ -518,6 +566,24 @@
    {
     "images": ["images/mi281.jpg","images/mi282.jpg","images/mi283.jpg"],
     "answer": "Mi-28 Havoc",
+    "category": "helico",
+    "nationalite": "russie"
+  },
+    {
+    "images": ["images/ka291.jpg","images/ka292.jpg","images/ka293.jpg"],
+    "answer": "Ka-29",
+    "category": "helico",
+    "nationalite": "russie"
+  },
+  {
+    "images": ["images/ka601.jpg","images/ka602.jpg","images/ka603.jpg"],
+    "answer": "Ka-60",
+    "category": "helico",
+    "nationalite": "russie"
+  },
+  {
+    "images": ["images/mi381.jpg","images/mi382.jpg","images/mi383.jpg"],
+    "answer": "Mi-38",
     "category": "helico",
     "nationalite": "russie"
   },
