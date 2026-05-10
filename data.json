@@ -218,7 +218,8 @@
     {
     "images": ["images/j351.jpg","images/j352.jpg","images/j353.jpg"],
     "answer": "Shenyang J-35A",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "chine"
   },
    {
     "images": ["images/gadget1.jpg","images/gadget2.jpg","images/gadget3.jpg"],
@@ -313,7 +314,8 @@
   {
     "images": ["images/kc3901.jpg","images/kc3902.jpg","images/kc3903.jpg"],
     "answer": "KC-390",
-    "category": "transport"
+    "category": "transport",
+    "nationalite": "bresil"
   },
   {
     "images": ["images/c51.jpg","images/c51.jpg","images/c53.jpg"],
