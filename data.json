@@ -38,7 +38,8 @@
   {
     "images": ["images/kf211.jpg","images/kf212.jpg","images/kf213.jpg"],
     "answer": "KF-21 Boromae",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "sc"
   },
   {
     "images": ["images/a101.jpg","images/a102.jpg","images/a103.jpg","images/a104.jpg"],
@@ -145,7 +146,8 @@
     {
     "images": ["images/kaan1.jpg","images/kaan2.jpg","images/kaan3.jpg"],
     "answer": "KAAN",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "europe"
   },
   {
     "images": ["images/f181.jpg","images/f182.jpg","images/f183.jpg"],
@@ -168,12 +170,14 @@
     {
     "images": ["images/j151.jpg","images/j152.jpg","images/j153.jpg"],
     "answer": "Shenyang J-15 Flying Shark",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "chine"
   },
   {
     "images": ["images/jf171.jpg","images/jf172.jpg","images/jf173.jpg"],
     "answer": "JF-17 Thunder",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "chine"
   },
   {
     "images": ["images/f51.jpg","images/f52.jpg","images/f53.jpg"],
@@ -190,22 +194,26 @@
     {
     "images": ["images/j201.jpg","images/j202.jpg","images/j203.jpg"],
     "answer": "Chengdu J-20 Mighty Dragon",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "chine"  
   },
     {
     "images": ["images/j101.jpg","images/j102.jpg","images/j103.jpg"],
     "answer": "Chengdu J-10",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "chine"
   },
   {
     "images": ["images/j111.jpg","images/j112.jpg","images/j113.jpg"],
     "answer": "Shenyang J-11",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "chine"
   },
   {
     "images": ["images/jh71.jpg","images/jh72.jpg","images/jh73.jpg"],
     "answer": "Xian JH-7 Flounder",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "chine"
   },
     {
     "images": ["images/j351.jpg","images/j352.jpg","images/j353.jpg"],
@@ -239,7 +247,8 @@
    {
     "images": ["images/tejas1.jpg","images/tejas2.jpg","images/tejas3.jpg"],
     "answer": "Hal Tejas",
-    "category": "chasseur"
+    "category": "chasseur",
+    "nationalite": "inde"
   },
    {
     "images": ["images/mig251.jpg","images/mig252.jpg","images/mig253.jpg"],
@@ -321,7 +330,8 @@
   {
     "images": ["images/kj6001.jpg","images/kj6002.jpg","images/kj6003.jpg"],
     "answer": "KJ-600",
-    "category": "transport"
+    "category": "transport",
+    "nationalite": "chine"
   },
     {
     "images": ["images/il761.jpg","images/il762.jpg","images/il763.jpg"],
@@ -344,7 +354,8 @@
    {
     "images": ["images/y201.jpg","images/y202.jpg","images/y203.jpg"],
     "answer": "Y-20",
-    "category": "transport"
+    "category": "transport",
+    "nationalite": "chine"
   },
    {
     "images": ["images/c271.jpg","images/c272.jpg","images/c273.jpg"],
@@ -367,7 +378,8 @@
    {
     "images": ["images/c21.jpg","images/c22.jpg","images/c23.jpg"],
     "answer": "Kawasaki C-2",
-    "category": "transport"
+    "category": "transport",
+    "nationalite": "japon"
   },
   {
     "images": ["images/ac1301.jpg","images/ac1302.jpg","images/ac1303.jpg"],
@@ -414,7 +426,8 @@
   {
     "images": ["images/kj20001.jpg","images/kj20002.jpg","images/kj20003.jpg"],
     "answer": "KJ-2000",
-    "category": "transport"
+    "category": "transport",
+    "nationalite": "chine"
   },
     {
     "images": ["images/ka501.jpg","images/ka502.jpg","images/ka503.jpg"],
@@ -653,7 +666,8 @@
   {
     "images": ["images/c9191.jpg","images/c9192.jpg","images/c9193.jpg"],
     "answer": "Comac 919",
-    "category": "liner"
+    "category": "liner",
+    "nationalite": "chine"
   },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
