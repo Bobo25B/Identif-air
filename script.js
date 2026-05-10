@@ -24,18 +24,31 @@ function shuffle(array) {
 
 // Récupère les catégories cochées
 function getSelectedCategories() {
-  const checkboxes = document.querySelectorAll("#filters input:checked");
-  return Array.from(checkboxes).map(cb => cb.value);
+  return Array.from(
+    document.querySelectorAll("#typeFilters input:checked")
+  ).map(cb => cb.value);
 }
 
-// Applique le filtre
-function applyFilters() {
-  const selected = getSelectedCategories();
+// Récupère les nationalités cochées
+function getSelectedNationalities() {
+  return Array.from(
+    document.querySelectorAll("#nationFilters input:checked")
+  ).map(cb => cb.value);
+}
 
-  filteredData = data.filter(q => selected.includes(q.category));
+// Applique les filtres
+function applyFilters() {
+  const selectedCategories = getSelectedCategories();
+  const selectedNationalities = getSelectedNationalities();
+
+  filteredData = data.filter(q =>
+    selectedCategories.includes(q.category) &&
+    selectedNationalities.includes(q.nationalite)
+  );
 
   if (filteredData.length === 0) {
-    document.getElementById("result").innerText = "Pas de questions pour ces catégories.";
+    document.getElementById("result").innerText =
+      "Pas de questions pour ces filtres.";
     document.getElementById("planeImage").src = "";
     return;
   }
