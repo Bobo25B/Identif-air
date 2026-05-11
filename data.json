@@ -181,7 +181,7 @@
   },
   {
     "images": ["images/su301.jpg","images/su302.jpg","images/su303.jpg","images/su304.jpg"],
-    "answer": "Su-30",
+    "answer": "Su-30 Flanker C",
     "category": "chasseur",
     "nationalite": "russie"
   },
@@ -217,7 +217,7 @@
   },
     {
     "images": ["images/j101.jpg","images/j102.jpg","images/j103.jpg"],
-    "answer": "Chengdu J-10",
+    "answer": "Chengdu J-10 Firebird",
     "category": "chasseur",
     "nationalite": "chine"
   },
@@ -295,25 +295,25 @@
   },
     {
     "images": ["images/a400m1.jpg","images/a400m2.jpg","images/a400m3.jpg"],
-    "answer": "Airbus A400M",
+    "answer": "Airbus A400M ATLAS",
     "category": "transport",
     "nationalite": "europe" 
   },
   {
     "images": ["images/c130h1.jpg","images/c130h2.jpg","images/c130h3.jpg"],
-    "answer": "C-130H",
+    "answer": "C-130H Hercules",
     "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/c171.jpg","images/c172.jpg","images/c173.jpg"],
-    "answer": "C-17 Globemaster",
+    "answer": "C-17 Globemaster III",
     "category": "transport",
     "nationalite": "usa"
   },
   {
     "images": ["images/c1351.jpg","images/c1352.jpg","images/c1353.jpg"],
-    "answer": "C-135",
+    "answer": "KC-135 Stratotanker",
     "category": "transport",
     "nationalite": "usa"
   },
@@ -349,7 +349,7 @@
   },
   {
     "images": ["images/kc3901.jpg","images/kc3902.jpg","images/kc3903.jpg"],
-    "answer": "KC-390",
+    "answer": "KC-390 Millenium",
     "category": "transport",
     "nationalite": "bresil"
   },
@@ -373,7 +373,7 @@
   },
     {
     "images": ["images/il761.jpg","images/il762.jpg","images/il763.jpg"],
-    "answer": "Il-76",
+    "answer": "Il-76 Candid",
     "category": "transport",
     "nationalite": "russie"
   },
@@ -385,7 +385,7 @@
   },
     {
     "images": ["images/an1241.jpg","images/an1242.jpg","images/an1243.jpg"],
-    "answer": "An-124",
+    "answer": "An-124 Condor",
     "category": "transport",
     "nationalite": "russie"
   },
@@ -427,7 +427,7 @@
   },
    {
     "images": ["images/e31.jpg","images/e32.jpg","images/e33.jpg"],
-    "answer": "E-3 Sentry",
+    "answer": "E-3 Sentry AWACS",
     "category": "transport",
     "nationalite": "usa"
   },
@@ -451,7 +451,7 @@
   },
   {
     "images": ["images/e41.jpg","images/e42.jpg","images/e43.jpg"],
-    "answer": "E-4",
+    "answer": "E-4 NOAC",
     "category": "transport",
     "nationalite": "usa"
   },
@@ -493,7 +493,7 @@
   },
     {
     "images": ["images/ka501.jpg","images/ka502.jpg","images/ka503.jpg"],
-    "answer": "Ka-50",
+    "answer": "Ka-50 Hokum",
     "category": "helico",
     "nationalite": "russie"
   },
@@ -523,7 +523,7 @@
   },
   {
     "images": ["images/b521.jpg","images/b522.jpg","images/b523.jpg"],
-    "answer": "B-52",
+    "answer": "B-52 Stratofortress",
     "category": "bombardier",
     "nationalite": "usa"
   },
@@ -631,7 +631,7 @@
   },
     {
     "images": ["images/ka291.jpg","images/ka292.jpg","images/ka293.jpg"],
-    "answer": "Ka-29",
+    "answer": "Ka-29 Helix-B",
     "category": "helico",
     "nationalite": "russie"
   },
@@ -655,7 +655,7 @@
   },
   {
     "images": ["images/chinook1.jpg","images/chinook2.jpg","images/chinook3.jpg"],
-    "answer": "Chinook",
+    "answer": "CH-47 Chinook",
     "category": "helico",
     "nationalite": "usa"
   },
@@ -673,7 +673,7 @@
   },
    {
     "images": ["images/mi261.jpg","images/mi262.jpg","images/mi263.jpg"],
-    "answer": "Mi-26",
+    "answer": "Mi-26 Halo",
     "category": "helico",
     "nationalite": "russie"
   },
@@ -685,7 +685,7 @@
   },
   {
     "images": ["images/mi81.jpg","images/mi82.jpg","images/mi82.jpg"],
-    "answer": "Mi-8",
+    "answer": "Mi-8 Hip",
     "category": "helico",
     "nationalite": "russie"
   },
@@ -799,7 +799,7 @@
   },
     {
     "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
-    "answer": "Su-27",
+    "answer": "Su-27 Flanker",
     "category": "chasseur",
     "nationalite": "russie"
   }
