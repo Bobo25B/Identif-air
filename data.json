@@ -387,7 +387,7 @@
     "images": ["images/an1241.jpg","images/an1242.jpg","images/an1243.jpg"],
     "answer": "An-124 Condor",
     "category": "transport",
-    "nationalite": "russie"
+    "nationalite": "ukr"
   },
    {
     "images": ["images/y201.jpg","images/y202.jpg","images/y203.jpg"],
@@ -405,13 +405,13 @@
     "images": ["images/an701.jpg","images/an702.jpg","images/an703.jpg"],
     "answer": "An-70",
     "category": "transport",
-    "nationalite": "russie"
+    "nationalite": "ukr"
   },
    {
     "images": ["images/an2251.jpg","images/an2252.jpg","images/an2253.jpg"],
     "answer": "An-225 Myria",
     "category": "transport",
-    "nationalite": "russie"
+    "nationalite": "ukr"
   },
    {
     "images": ["images/c21.jpg","images/c22.jpg","images/c23.jpg"],
