@@ -54,7 +54,7 @@
     "nationalite": "usa"
   },
   {
-    "images": ["images/f161.jpg","images/f162.jpg","images/f163.jpg","images/f164.jpg","images/f165.jpg,"images/f166.jpg"],
+    "images": ["images/f161.jpg","images/f162.jpg","images/f163.jpg","images/f164.jpg","images/f165.jpg","images/f166.jpg"],
     "answer": "F-16 Falcon",
     "category": "chasseur",
     "nationalite": "usa"
