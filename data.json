@@ -198,7 +198,7 @@
     "nationalite": "chine"
   },
   {
-    "images": ["images/f51.jpg","images/f52.jpg","images/f53.jpg","images/"f54.jpg"],
+    "images": ["images/f51.jpg","images/f52.jpg","images/f53.jpg","images/f54.jpg"],
     "answer": "F-5 Freedom Fighter",
     "category": "chasseur",
     "nationalite": "usa"
