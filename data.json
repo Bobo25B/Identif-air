@@ -185,6 +185,12 @@
     "category": "chasseur",
     "nationalite": "russie"
   },
+   {
+    "images": ["images/su341.jpg","images/su342.jpg","images/su343.jpg","images/su344.jpg"],
+    "answer": "Su-34 Fallback",
+    "category": "chasseur",
+    "nationalite": "russie"
+  },
     {
     "images": ["images/j151.jpg","images/j152.jpg","images/j153.jpg"],
     "answer": "Shenyang J-15 Flying Shark",
