@@ -187,7 +187,7 @@
   },
    {
     "images": ["images/su341.jpg","images/su342.jpg","images/su343.jpg","images/su344.jpg"],
-    "answer": "Su-34 Fallback",
+    "answer": "Su-34 Fullback",
     "category": "chasseur",
     "nationalite": "russie"
   },
