@@ -18,7 +18,7 @@
     "nationalite": "france"
   },
   {
-    "images": ["images/su571.jpg","images/su572.jpg","images/su573.jpg","images/su574.jpg"],
+    "images": ["images/su571.jpg","images/su572.jpg","images/su573.jpg","images/su574.jpg","images/su575.jpg"],
     "answer": "Su-57 Felon",
     "category": "chasseur",
     "nationalite": "russie"
@@ -42,7 +42,7 @@
     "nationalite": "sc"
   },
   {
-    "images": ["images/a101.jpg","images/a102.jpg","images/a103.jpg","images/a104.jpg"],
+    "images": ["images/a101.jpg","images/a102.jpg","images/a103.jpg","images/a104.jpg","images/a105.jpg"],
     "answer": "A-10C Warthog",
     "category": "chasseur",
     "nationalite": "usa"
@@ -96,7 +96,7 @@
     "nationalite": "france"
   },
   {
-    "images": ["images/typhoon1.jpg","images/typhoon2.jpg","images/typhoon3.jpg"],
+    "images": ["images/typhoon1.jpg","images/typhoon2.jpg","images/typhoon3.jpg","images/typhoon4.jpg"],
     "answer": "Eurofighter Typhoon",
     "category": "chasseur",
     "nationalite": "europe"
@@ -108,7 +108,7 @@
     "nationalite": "europe"
   },
   {
-    "images": ["images/mig291.jpg","images/mig292.jpg","images/mig293.jpg","images/mig294.jpg"],
+    "images": ["images/mig291.jpg","images/mig292.jpg","images/mig293.jpg","images/mig294.jpg","images/mig295.jpg"],
     "answer": "Mig 29 Fulcrum",
     "category": "chasseur",
     "nationalite": "russie"
@@ -150,7 +150,7 @@
     "nationalite": "europe"
   },
   {
-    "images": ["images/f181.jpg","images/f182.jpg","images/f183.jpg","images/f184.jpg","images/f185.jpg"],
+    "images": ["images/f181.jpg","images/f182.jpg","images/f183.jpg","images/f184.jpg","images/f185.jpg","images/f186.jpg"],
     "answer": "F-18 hornet",
     "category": "chasseur",
     "nationalite": "usa"
@@ -354,7 +354,7 @@
     "nationalite": "bresil"
   },
   {
-    "images": ["images/c51.jpg","images/c51.jpg","images/c53.jpg"],
+    "images": ["images/c51.jpg","images/c51.jpg","images/c53.jpg","images/c54.jpg"],
     "answer": "C-5 Galaxy",
     "category": "transport",
     "nationalite": "usa"
@@ -372,7 +372,7 @@
     "nationalite": "chine"
   },
     {
-    "images": ["images/il761.jpg","images/il762.jpg","images/il763.jpg"],
+    "images": ["images/il761.jpg","images/il762.jpg","images/il763.jpg","images/il764.jpg"],
     "answer": "Il-76 Candid",
     "category": "transport",
     "nationalite": "russie"
@@ -498,25 +498,25 @@
     "nationalite": "russie"
   },
   {
-    "images": ["images/b21.jpg","images/b22.jpg","images/b23.jpg","images/b24.jpg"],
+    "images": ["images/b21.jpg","images/b22.jpg","images/b23.jpg","images/b24.jpg","images/b24.jpg"],
     "answer": "B-2 SPIRIT",
     "category": "bombardier",
     "nationalite": "usa"
   },
   {
-    "images": ["images/tu1601.jpg","images/tu1602.jpg","images/tu1603.jpg"],
+    "images": ["images/tu1601.jpg","images/tu1602.jpg","images/tu1603.jpg","images/tu1604.jpg"],
     "answer": "Tu-160 Blackjack",
     "category": "bombardier",
     "nationalite": "russie"
   },
   {
-    "images": ["images/tu22m1.jpg","images/tu22m2.jpg","images/tu22m3.jpg"],
+    "images": ["images/tu22m1.jpg","images/tu22m2.jpg","images/tu22m3.jpg","images/tu22m4.jpg"],
     "answer": "Tu-22M Backfire",
     "category": "bombardier",
     "nationalite": "russie"
   },
   {
-    "images": ["images/tu951.jpg","images/tu952.jpg","images/tu953.jpg"],
+    "images": ["images/tu951.jpg","images/tu952.jpg","images/tu953.jpg","images/tu954.jpg"],
     "answer": "TU-95 Bear",
     "category": "bombardier",
     "nationalite": "russie"
@@ -798,7 +798,7 @@
     "nationalite": "chine"
   },
     {
-    "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg"],
+    "images": ["images/su271.jpg","images/su272.jpg","images/su273.jpg","images/su274.jpg"],
     "answer": "Su-27 Flanker",
     "category": "chasseur",
     "nationalite": "russie"
