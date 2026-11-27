@@ -4,6 +4,7 @@
     "answer": "Rafale",
     "category": "chasseur",
      "nationalite": "france"
+     "page": "pages/rafale.html"
   },
    {
     "images": ["images/f11.jpg","images/f12.jpg","images/f13.jpg"],
