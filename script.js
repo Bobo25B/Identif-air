@@ -74,8 +74,20 @@ function showQuestion() {
 // Affiche la réponse
 function showAnswer() {
   if (filteredData.length === 0) return;
+
   const q = filteredData[current];
-  document.getElementById("result").innerText = "Réponse : " + q.answer;
+
+  const result = document.getElementById("result");
+
+  result.innerHTML = `
+    Réponse : ${q.answer}
+    ${q.page ? `
+      <br><br>
+      <a href="${q.page}" class="info-link">
+        En savoir plus sur cet appareil →
+      </a>
+    ` : ""}
+  `;
 }
 
 // Question suivante
