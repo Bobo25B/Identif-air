@@ -1,1 +1,577 @@
 
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Dassault Rafale - Identif'air</title>
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: #eef1f5;
+            color: #252c35;
+            line-height: 1.7;
+        }
+
+        header {
+            background: #172b42;
+            color: white;
+            padding: 18px 6%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+
+        header h2 {
+            margin: 0;
+            letter-spacing: 2px;
+        }
+
+        header a {
+            color: white;
+            text-decoration: none;
+            background: #3498db;
+            padding: 9px 16px;
+            border-radius: 6px;
+        }
+
+        header a:hover {
+            background: #2176b5;
+        }
+
+        .container {
+            max-width: 1100px;
+            margin: 30px auto;
+            padding: 20px;
+        }
+
+        .fiche {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 3px 12px #00000012;
+        }
+
+        h1 {
+            color: #172b42;
+            font-size: 34px;
+            margin-bottom: 0;
+        }
+
+        .subtitle {
+            color: #777;
+            margin-top: 5px;
+        }
+
+        .image-principale {
+            width: 100%;
+            max-height: 480px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin: 20px 0 5px;
+        }
+
+        .legende {
+            color: #777;
+            font-size: 13px;
+            text-align: center;
+        }
+
+        .content {
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            gap: 30px;
+            margin-top: 30px;
+        }
+
+        section {
+            margin-bottom: 35px;
+        }
+
+        section h2 {
+            color: #172b42;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 7px;
+        }
+
+        .infobox {
+            background: #f5f7fa;
+            border: 1px solid #dce2e9;
+            border-radius: 10px;
+            padding: 18px;
+            height: fit-content;
+        }
+
+        .infobox h2 {
+            text-align: center;
+            color: #172b42;
+            margin-top: 0;
+        }
+
+        .infobox img {
+            width: 100%;
+            border-radius: 7px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 15px;
+        }
+
+        td, th {
+            border: 1px solid #ddd;
+            padding: 11px;
+            text-align: left;
+        }
+
+        th {
+            background: #edf2f7;
+            width: 45%;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+
+        .gallery img {
+            width: 100%;
+            height: 190px;
+            object-fit: cover;
+            border-radius: 8px;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #e3edf7;
+            color: #245780;
+            padding: 5px 12px;
+            border-radius: 20px;
+            font-size: 13px;
+            margin: 3px;
+        }
+
+        footer {
+            background: #172b42;
+            color: white;
+            text-align: center;
+            padding: 22px;
+            margin-top: 40px;
+        }
+
+        @media (max-width: 750px) {
+            .content {
+                grid-template-columns: 1fr;
+            }
+
+            .container {
+                padding: 12px;
+            }
+
+            .fiche {
+                padding: 18px;
+            }
+
+            h1 {
+                font-size: 27px;
+            }
+
+            .gallery img {
+                height: 130px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h2>IDENTIF'AIR</h2>
+    <a href="../index.html">← Retour au jeu</a>
+</header>
+
+<div class="container">
+
+<div class="fiche">
+
+    <h1>Dassault Rafale</h1>
+
+    <p class="subtitle">
+        Avion de combat multirôle français
+    </p>
+
+    <span class="tag">Chasseur</span>
+    <span class="tag">France</span>
+    <span class="tag">Génération 4.5</span>
+
+    <img
+        src="../images/rafale1.jpg"
+        alt="Dassault Rafale en vol"
+        class="image-principale"
+    >
+
+    <p class="legende">
+        Dassault Rafale de l'armée de l'Air et de l'Espace
+    </p>
+
+    <div class="content">
+
+        <div class="texte">
+
+            <section>
+                <h2>1. Présentation générale</h2>
+
+                <p>
+                    Le Dassault Rafale est un avion de combat
+                    multirôle développé par le constructeur
+                    aéronautique français Dassault Aviation.
+
+                    Il a été conçu pour répondre aux besoins
+                    de l'armée de l'Air française et de la
+                    Marine nationale.
+                </p>
+
+                <p>
+                    Il possède une configuration
+                    aérodynamique caractéristique avec une
+                    aile delta et deux plans canards situés
+                    près du cockpit.
+
+                    Cette configuration lui permet d'obtenir
+                    une grande maniabilité et de bonnes
+                    performances en vol.
+                </p>
+
+                <p>
+                    Le Rafale est qualifié d'avion
+                    « omnirôle », car il peut réaliser
+                    différentes missions au cours d'une
+                    même sortie aérienne.
+                </p>
+            </section>
+
+            <section>
+                <h2>2. Histoire et développement</h2>
+
+                <p>
+                    Le développement du Rafale trouve son
+                    origine dans les réflexions françaises
+                    sur le remplacement des avions de combat
+                    des générations précédentes.
+                </p>
+
+                <p>
+                    Dans les années 1980, la France lance
+                    le programme ACX afin de développer
+                    un nouvel avion de combat indépendant
+                    des autres programmes européens.
+                </p>
+
+                <p>
+                    Le démonstrateur Rafale A effectue
+                    son premier vol le 4 juillet 1986.
+                    Les prototypes de la version de série
+                    suivent au début des années 1990.
+                </p>
+
+                <p>
+                    Le Rafale entre progressivement en
+                    service dans les forces françaises :
+                    la Marine nationale reçoit ses premiers
+                    appareils opérationnels en 2004,
+                    puis l'armée de l'Air en 2006.
+                </p>
+            </section>
+
+            <section>
+                <h2>3. Caractéristiques techniques</h2>
+
+                <table>
+                    <tr>
+                        <th>Constructeur</th>
+                        <td>Dassault Aviation</td>
+                    </tr>
+                    <tr>
+                        <th>Pays d'origine</th>
+                        <td>France</td>
+                    </tr>
+                    <tr>
+                        <th>Type</th>
+                        <td>Avion de combat multirôle</td>
+                    </tr>
+                    <tr>
+                        <th>Premier vol du démonstrateur</th>
+                        <td>4 juillet 1986</td>
+                    </tr>
+                    <tr>
+                        <th>Premier vol d'un Rafale de série</th>
+                        <td>1991</td>
+                    </tr>
+                    <tr>
+                        <th>Mise en service Marine</th>
+                        <td>2004</td>
+                    </tr>
+                    <tr>
+                        <th>Mise en service Air</th>
+                        <td>2006</td>
+                    </tr>
+                    <tr>
+                        <th>Équipage</th>
+                        <td>1 ou 2 personnes</td>
+                    </tr>
+                </table>
+            </section>
+
+            <section>
+                <h2>4. Dimensions et performances</h2>
+
+                <table>
+                    <tr>
+                        <th>Longueur</th>
+                        <td>15,30 m</td>
+                    </tr>
+                    <tr>
+                        <th>Envergure</th>
+                        <td>10,90 m</td>
+                    </tr>
+                    <tr>
+                        <th>Hauteur</th>
+                        <td>5,30 m</td>
+                    </tr>
+                    <tr>
+                        <th>Masse à vide</th>
+                        <td>Environ 10 tonnes</td>
+                    </tr>
+                    <tr>
+                        <th>Masse maximale au décollage</th>
+                        <td>24,5 tonnes</td>
+                    </tr>
+                    <tr>
+                        <th>Vitesse maximale</th>
+                        <td>Mach 1,8</td>
+                    </tr>
+                    <tr>
+                        <th>Plafond opérationnel</th>
+                        <td>50 000 pieds (environ 15 240 m)</td>
+                    </tr>
+                    <tr>
+                        <th>Charge externe maximale</th>
+                        <td>9,5 tonnes</td>
+                    </tr>
+                    <tr>
+                        <th>Points d'emport</th>
+                        <td>14</td>
+                    </tr>
+                </table>
+
+                <p>
+                    Les valeurs peuvent varier selon la version
+                    et la configuration de l'appareil.
+                </p>
+            </section>
+
+            <section>
+                <h2>5. Motorisation</h2>
+
+                <p>
+                    Le Rafale est propulsé par deux
+                    turboréacteurs Safran Aircraft Engines
+                    M88.
+                </p>
+
+                <p>
+                    Chaque moteur développe une poussée
+                    maximale d'environ 75 kN avec
+                    postcombustion.
+                </p>
+
+                <table>
+                    <tr>
+                        <th>Motoriste</th>
+                        <td>Safran Aircraft Engines</td>
+                    </tr>
+                    <tr>
+                        <th>Moteur</th>
+                        <td>M88</td>
+                    </tr>
+                    <tr>
+                        <th>Nombre de moteurs</th>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <th>Poussée maximale</th>
+                        <td>2 × 75 kN</td>
+                    </tr>
+                </table>
+            </section>
+
+            <section>
+                <h2>6. Équipements et avionique</h2>
+
+                <p>
+                    Le Rafale possède un ensemble
+                    d'équipements électroniques destinés
+                    à faciliter la détection, l'identification
+                    et le suivi des menaces.
+                </p>
+
+                <ul>
+                    <li>
+                        Radar RBE2 à antenne active AESA
+                        sur les versions modernisées.
+                    </li>
+                    <li>
+                        Système de guerre électronique
+                        et de protection SPECTRA.
+                    </li>
+                    <li>
+                        Capteur optronique frontal OSF.
+                    </li>
+                    <li>
+                        Systèmes de navigation et de
+                        communication intégrés.
+                    </li>
+                    <li>
+                        Liaison de données tactiques.
+                    </li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>7. Missions principales</h2>
+
+                <ul>
+                    <li>Supériorité aérienne.</li>
+                    <li>Défense aérienne.</li>
+                    <li>Interception.</li>
+                    <li>Reconnaissance aérienne.</li>
+                    <li>Attaque au sol.</li>
+                    <li>Appui aérien rapproché.</li>
+                    <li>Attaque maritime.</li>
+                    <li>Dissuasion nucléaire française.</li>
+                    <li>Ravitaillement en vol entre Rafale.</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>8. Les différentes versions</h2>
+
+                <h3>Rafale C</h3>
+                <p>
+                    Version monoplace destinée à l'armée
+                    de l'Air et de l'Espace française.
+                </p>
+
+                <h3>Rafale B</h3>
+                <p>
+                    Version biplace terrestre permettant
+                    d'accueillir un pilote et un second
+                    membre d'équipage.
+                </p>
+
+                <h3>Rafale M</h3>
+                <p>
+                    Version navalisée conçue pour opérer
+                    depuis les porte-avions. Elle dispose
+                    notamment d'une crosse d'appontage
+                    et d'un train d'atterrissage renforcé.
+                </p>
+            </section>
+
+            <section>
+                <h2>9. Utilisateurs à l'exportation</h2>
+
+                <p>
+                    En plus de la France, plusieurs pays
+                    ont commandé le Rafale pour équiper
+                    leurs forces aériennes.
+                </p>
+
+                <ul>
+                    <li>Égypte</li>
+                    <li>Qatar</li>
+                    <li>Inde</li>
+                    <li>Grèce</li>
+                    <li>Croatie</li>
+                    <li>Émirats arabes unis</li>
+                    <li>Indonésie</li>
+                    <li>Serbie</li>
+                </ul>
+            </section>
+
+            <section>
+                <h2>10. Galerie photographique</h2>
+
+                <div class="gallery">
+                    <img src="../images/rafale1.jpg"
+                         alt="Rafale en vol">
+
+                    <img src="../images/rafale2.jpg"
+                         alt="Rafale en vol">
+
+                    <img src="../images/rafale3.jpg"
+                         alt="Rafale en vol">
+
+                    <img src="../images/rafale4.jpg"
+                         alt="Rafale en vol">
+                </div>
+            </section>
+
+        </div>
+
+        <aside class="infobox">
+
+            <h2>Dassault Rafale</h2>
+
+            <img src="../images/rafale1.jpg"
+                 alt="Dassault Rafale">
+
+            <p><strong>Nationalité :</strong> France</p>
+
+            <p><strong>Constructeur :</strong>
+                Dassault Aviation</p>
+
+            <p><strong>Catégorie :</strong>
+                Chasseur multirôle</p>
+
+            <p><strong>Génération :</strong>
+                4.5</p>
+
+            <p><strong>Motorisation :</strong>
+                2 × Safran M88</p>
+
+            <p><strong>Vitesse maximale :</strong>
+                Mach 1,8</p>
+
+            <p><strong>Équipage :</strong>
+                1 ou 2</p>
+
+            <p><strong>Entrée en service :</strong>
+                2004 (Marine)</p>
+
+        </aside>
+
+    </div>
+
+</div>
+</div>
+
+<footer>
+    <p>IDENTIF'AIR - Encyclopédie aéronautique</p>
+    <p>Fiche informative consacrée au Dassault Rafale</p>
+</footer>
+
+</body>
+</html>
