@@ -1,0 +1,89 @@
+
+/* Page générale */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #222;
+}
+
+/* En-tête */
+
+header {
+    background: #172b42;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header a {
+    color: white;
+    text-decoration: none;
+}
+
+/* Fiche */
+
+.fiche {
+    max-width: 900px;
+    margin: 30px auto;
+    padding: 25px;
+    background: white;
+    border-radius: 12px;
+}
+
+.fiche h1 {
+    color: #172b42;
+}
+
+.sous-titre {
+    color: #777;
+}
+
+/* Image */
+
+.image-principale {
+    width: 100%;
+    max-height: 450px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Sections */
+
+section {
+    margin-top: 35px;
+}
+
+section h2 {
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 8px;
+    color: #172b42;
+}
+
+/* Tableau */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, th {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background: #edf2f7;
+}
+
+/* Pied de page */
+
+footer {
+    text-align: center;
+    padding: 20px;
+    color: #777;
+}
